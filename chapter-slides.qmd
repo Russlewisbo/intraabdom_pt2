@@ -34,8 +34,6 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 |------------------------------------|------------------------------------|
 | ![](images/dmmunipd_logo.jpeg){width="100"} | ![](images/unipd_seal_white.svg){width="100"} |
 
-------------------------------------------------------------------------
-
 ## What is appendicitis?
 
 <br> <br>
@@ -56,8 +54,6 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 ::: notes
 Fitz first described the natural course of acute appendicitis in 1886, coining the term and advocating early surgical intervention. This historical perspective has shaped surgical practice for over a century.
 :::
-
-------------------------------------------------------------------------
 
 ## Epidemiology: By the Numbers
 
@@ -81,8 +77,6 @@ Fitz first described the natural course of acute appendicitis in 1886, coining t
 The decline in appendectomies reflects the growing adoption of antibiotic-first strategies for uncomplicated appendicitis. This represents a paradigm shift from the doctrine of immediate surgery.
 :::
 
-------------------------------------------------------------------------
-
 ## Age and Sex Distribution
 
 <br> <br>
@@ -97,8 +91,6 @@ The decline in appendectomies reflects the growing adoption of antibiotic-first 
 Appendicitis steadily increases through childhood and adolescence. Men have slightly higher rates overall. The peak in adolescence and young adulthood makes early recognition particularly important in this demographic.
 :::
 
-------------------------------------------------------------------------
-
 ## Geographic Variation
 
 <br>
@@ -111,8 +103,6 @@ Appendicitis steadily increases through childhood and adolescence. Men have slig
 ::: notes
 This geographic pattern has led to significant interest in the role of dietary fiber and the gut microbiome in appendicitis pathogenesis. The industrialization correlation suggests environmental or dietary factors.
 :::
-
-------------------------------------------------------------------------
 
 ## Anatomy of the appendix
 
@@ -135,8 +125,6 @@ This geographic pattern has led to significant interest in the role of dietary f
 Atypical positions are common and can significantly alter the clinical presentation, making diagnosis more challenging. A retrocecal appendix may present with flank pain, while a pelvic appendix may present with suprapubic or lower abdominal pain
 :::
 
-------------------------------------------------------------------------
-
 ## The Appendix: Not just vestigial
 
 <br>
@@ -151,9 +139,7 @@ Atypical positions are common and can significantly alter the clinical presentat
 Recent studies have shifted our understanding of the appendix from a useless vestige to an important component of the gut immune system. <br>This has implications for understanding appendicitis not as merely a surgical nuisance but as a significant infection with complex ecology
 :::
 
-------------------------------------------------------------------------
-
-## Classic pathogenesis model
+## Classic parthogenesis model
 
 <br>
 
@@ -175,8 +161,6 @@ Recent studies have shifted our understanding of the appendix from a useless ves
 ::: aside
 The pathologic hallmark is polymorphonuclear cells within the appendiceal wall with edema and vascular congestion. This model has been taught for over a century but is now being challenged by emerging evidence. [@morisDiagnosisManagementAcute2021]
 :::
-
-------------------------------------------------------------------------
 
 ## Challenging the classic pathology model
 
@@ -203,8 +187,6 @@ The pathologic hallmark is polymorphonuclear cells within the appendiceal wall w
 The success of non-operative management strongly suggests that physical obstruction may not be the primary mechanism in most cases. This has prompted reconsideration of the fundamental pathophysiology of appendicitis.
 :::
 
-------------------------------------------------------------------------
-
 ## The dietary fiber hypothesis
 
 <br>
@@ -226,8 +208,6 @@ The success of non-operative management strongly suggests that physical obstruct
 ::: aside
 The observation that appendicitis rates increase with industrialization and the adoption of low-fiber Western diets has persisted for over a century and remains one of the most compelling epidemiologic clues to appendicitis pathogenesis
 :::
-
-------------------------------------------------------------------------
 
 ## Microbiology: Culture-based
 
@@ -253,8 +233,6 @@ The observation that appendicitis rates increase with industrialization and the 
 *Pseudomonas aeruginosa* found in 4–15% of cases. <br> **Anaerobic coverage is essential in antibiotic selection and should never be omitted**.
 :::
 
-------------------------------------------------------------------------
-
 ## Microbiology: 16S rRNA Insights
 
 <br>
@@ -279,8 +257,6 @@ The observation that appendicitis rates increase with industrialization and the 
 These oral-type bacteria enriched in the inflamed appendix has led to the dysbiosis hypothesis—a paradigm shift in understanding appendicitis pathogenesis. The microbiome of the appendix is highly specialized and distinct from even the cecum.
 :::
 
-------------------------------------------------------------------------
-
 ## Specific pathogens to know
 
 <br>
@@ -296,8 +272,6 @@ These oral-type bacteria enriched in the inflamed appendix has led to the dysbio
 ::: aside
 Most cases of mesenteric adenitis have an unidentified infectious cause. The disorder is usually discovered at surgery for suspected appendicitis when the appendix appears normal.
 :::
-
-------------------------------------------------------------------------
 
 ## Classic clinical presentation
 
@@ -320,8 +294,6 @@ Most cases of mesenteric adenitis have an unidentified infectious cause. The dis
 McBurney point is located two to three fingerbreadths above the right anterior superior iliac spine on a line drawn to the umbilicus. <br> This "classic" presentation occurs in a minority of patients.
 :::
 
-------------------------------------------------------------------------
-
 ## Physical examination signs
 
 <br>
@@ -338,8 +310,6 @@ McBurney point is located two to three fingerbreadths above the right anterior s
 High fever or sudden pain reduction suggests perforation. Abdominal rigidity suggests diffuse peritonitis. No single finding is diagnostic, and the combination of clinical and imaging findings is essential.
 :::
 
-------------------------------------------------------------------------
-
 ## Diagnostic Challenges
 
 <br>
@@ -351,8 +321,6 @@ Diagnosis is more difficult in: - Women of childbearing age (gynecologic mimics)
 ::: notes
 The rate of negative appendectomy has decreased significantly since the widespread adoption of CT imaging. Pregnancy represents a unique challenge, as imaging must be tailored to protect the fetus.
 :::
-
-------------------------------------------------------------------------
 
 ## CT Imaging
 
@@ -385,8 +353,6 @@ The rate of negative appendectomy has decreased significantly since the widespre
 CT has dramatically reduced the rate of negative appendectomies and improved identification of complicated appendicitis (perforation, abscess). Graded compression ultrasonography is highly operator-dependent.
 :::
 
-------------------------------------------------------------------------
-
 ## Scoring systems
 
 <br>
@@ -401,8 +367,6 @@ CT has dramatically reduced the rate of negative appendectomies and improved ide
 These scoring systems are useful for triaging patients and determining who needs imaging versus direct surgical consultation. The AIR score has been validated across multiple populations.
 :::
 
-------------------------------------------------------------------------
-
 ## Treatment: Surgical
 
 -   **Laparoscopic appendectomy**: Standard of care
@@ -415,8 +379,6 @@ These scoring systems are useful for triaging patients and determining who needs
 ::: notes
 Laparoscopic approach has become the dominant surgical technique in most centers worldwide. The transition from open to laparoscopic surgery has improved patient outcomes significantly.
 :::
-
-------------------------------------------------------------------------
 
 ## Treatment: Antibiotic-first strategy
 
@@ -435,8 +397,6 @@ An "antibiotic first" strategy has emerged as a safe and effective option for **
 The CODA and APPAC trials have provided strong evidence for the antibiotic-first approach. However, patient selection and shared decision-making are critical. Patients must be reliable for follow-up.
 :::
 
-------------------------------------------------------------------------
-
 ## Antibiotic regimens for appendicitis
 
 <br> <br>
@@ -449,8 +409,6 @@ The CODA and APPAC trials have provided strong evidence for the antibiotic-first
 ::: aside
 Broad-spectrum coverage targeting both aerobic gram-negatives and anaerobes is essential given the polymicrobial nature of the infection. Some centers use oral step-down therapy as early as 48–72 hours if clinical improvement is evident.
 :::
-
-------------------------------------------------------------------------
 
 ## Appendicitis: Key takeaways
 
@@ -467,11 +425,7 @@ Broad-spectrum coverage targeting both aerobic gram-negatives and anaerobes is e
 The management of appendicitis is evolving rapidly. Shared decision-making between patient and clinician, incorporating patient preferences and risk tolerance, is increasingly important.
 :::
 
-------------------------------------------------------------------------
-
 # Infections of the Liver and Biliary System {background-color="#9B0014"}
-
-------------------------------------------------------------------------
 
 ## Liver abscess: Two categories
 
@@ -488,8 +442,6 @@ The management of appendicitis is evolving rapidly. Shared decision-making betwe
 These two types of liver abscess have fundamentally different pathophysiology, microbiology, and management strategies. Distinguishing them early is critical for guiding appropriate therapy.
 :::
 
-------------------------------------------------------------------------
-
 ## Amebic Liver Abscess: Epidemiology
 
 <br>
@@ -503,8 +455,6 @@ These two types of liver abscess have fundamentally different pathophysiology, m
 ::: aside
 The epidemiology has been greatly informed by distinguishing *E. histolytica* from *E. dispar*, which is nonpathogenic. This distinction fundamentally changed how we interpret both clinical and epidemiologic data.
 :::
-
-------------------------------------------------------------------------
 
 ## *E. histolytica* vs. *E. dispar*
 
@@ -528,8 +478,6 @@ The epidemiology has been greatly informed by distinguishing *E. histolytica* fr
 The appreciation of *E. dispar* as a distinct, nonpathogenic species was a major advance in understanding the epidemiology of amebiasis. This distinction explains why asymptomatic *Entamoeba* carriers rarely develop invasive disease.
 :::
 
-------------------------------------------------------------------------
-
 ## Pyogenic Liver Abscess: Epidemiology
 
 <br>
@@ -543,8 +491,6 @@ The appreciation of *E. dispar* as a distinct, nonpathogenic species was a major
 ::: aside
 The emergence of hypervirulent *K. pneumoniae* as a cause of community-acquired liver abscess has dramatically changed the epidemiology, particularly in East and Southeast Asia. This represents one of the most significant changes in infectious disease epidemiology in recent decades.
 :::
-
-------------------------------------------------------------------------
 
 ## Routes of Hepatic Invasion
 
@@ -563,8 +509,6 @@ The emergence of hypervirulent *K. pneumoniae* as a cause of community-acquired 
 Cholangitis has replaced appendicitis as the major identifiable cause. The high frequency of cryptogenic abscesses reflects our inability to identify a source in many cases, despite extensive investigation
 :::
 
-------------------------------------------------------------------------
-
 ## Risk Factors for Pyogenic Liver Abscess
 
 <br>
@@ -582,9 +526,7 @@ Cholangitis has replaced appendicitis as the major identifiable cause. The high 
 Diabetes is particularly important as a risk factor and is strongly associated with *K. pneumoniae* liver abscess, particularly in Asian populations. The mechanism linking diabetes to *K. pneumoniae* infection remains under investigation.
 :::
 
-------------------------------------------------------------------------
-
-## Pathogenesis: Amoebic liver abscess
+## Pathogenesis: Amebic liver abscess
 
 <br>
 
@@ -610,8 +552,6 @@ Diabetes is particularly important as a risk factor and is strongly associated w
 The Gal/GalNAc lectin is a key virulence factor that mediates adherence to colonic epithelium. The induction of apoptosis rather than necrosis produces the characteristic nonpurulent "anchovy paste" appearance that has fascinated pathologists for centuries.
 :::
 
-------------------------------------------------------------------------
-
 ## Anchovy paste
 
 ![](images/Screenshot%202026-03-04%20165702.png)
@@ -631,8 +571,6 @@ The Gal/GalNAc lectin is a key virulence factor that mediates adherence to colon
 Caspase-3-deficient mice are resistant to amebic liver abscess formation, underscoring the importance of host cell apoptosis in pathogenesis. The parasite essentially hijacks the host's own death machinery.
 :::
 
-------------------------------------------------------------------------
-
 ## Host Factors in Amebic Liver Abscess
 
 <br>
@@ -649,8 +587,6 @@ Caspase-3-deficient mice are resistant to amebic liver abscess formation, unders
 ::: aside
 The dramatic male predominance is partly explained by the role of testosterone in experimental models. <br> This has led to investigation of sex hormones as potential therapeutic targets.
 :::
-
-------------------------------------------------------------------------
 
 ## Microbiology of Pyogenic Liver Abscess
 
@@ -671,8 +607,6 @@ The dramatic male predominance is partly explained by the role of testosterone i
 ::: aside
 The source of the abscess guides the microbiology: biliary abscesses tend to be polymicrobial; cryptogenic abscesses are more often monomicrobial. This distinction has clinical implications for empiric antibiotic selection.
 :::
-
-------------------------------------------------------------------------
 
 ## Epidemic *K. pneumoniae* Liver Abscess
 
@@ -700,8 +634,6 @@ The source of the abscess guides the microbiology: biliary abscesses tend to be 
 This is a truly distinctive clinical syndrome that has emerged as a global concern. The rapid spread and high mortality in some series have prompted international surveillance efforts.
 :::
 
-------------------------------------------------------------------------
-
 ## *K. pneumoniae* virulence determinants
 
 <br>
@@ -716,8 +648,6 @@ This is a truly distinctive clinical syndrome that has emerged as a global conce
 ::: aside
 Mutagenesis of *magA* abolishes hypermucoviscosity and increases sensitivity to phagocytosis and serum-mediated lysis. This has enabled researchers to identify the specific genetic basis of hypervirulence.
 :::
-
-------------------------------------------------------------------------
 
 ## Convergent Drug-Resistant *K. pneumoniae*
 
@@ -737,9 +667,7 @@ Mutagenesis of *magA* abolishes hypermucoviscosity and increases sensitivity to 
 The convergence of hypervirulence and antimicrobial resistance in *K. pneumoniae* represents one of the most concerning developments in infectious diseases. <br> The potential for a hypervirulent, multidrug-resistant *K. pneumoniae* pandemic is a significant global health threat.
 :::
 
-------------------------------------------------------------------------
-
-## Clinical Features: Ameobic Liver Abscess
+## Clinical Features: Amebic Liver Abscess
 
 <br>
 
@@ -759,8 +687,6 @@ The convergence of hypervirulence and antimicrobial resistance in *K. pneumoniae
 Epidemiologic risk factor assessment is crucial for differentiating amebic from pyogenic liver abscess at presentation. <br>A history of travel to an endemic area should always prompt serology testing.
 :::
 
-------------------------------------------------------------------------
-
 ## Clinical Features: Pyogenic Liver Abscess
 
 <br>
@@ -775,8 +701,6 @@ Epidemiologic risk factor assessment is crucial for differentiating amebic from 
 ::: aside
 The nonspecific nature of symptoms means that a high index of suspicion is required. Before widespread imaging, liver abscess was among the most frequently identifiable causes of fever of unknown origin.
 :::
-
-------------------------------------------------------------------------
 
 ## Comparing Amebic vs. Pyogenic Liver Abscess
 
@@ -795,8 +719,6 @@ The nonspecific nature of symptoms means that a high index of suspicion is requi
 Note the striking gender difference—amebic liver abscess has a much stronger male predominance, likely related to testosterone and sex-based differences in immune response.
 :::
 
-------------------------------------------------------------------------
-
 ## Diagnosis: Laboratory Findings
 
 <br>
@@ -812,8 +734,6 @@ Note the striking gender difference—amebic liver abscess has a much stronger m
 Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent predictors of mortality with odds ratios of 13 and 14 respectively. <br> Procalcitonin appears to be more specific than CRP.
 :::
 
-------------------------------------------------------------------------
-
 ## Diagnosis: Imaging
 
 <br>
@@ -828,8 +748,6 @@ Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent pred
 ::: aside
 US is the study of choice when biliary disease is suspected or in patients who cannot receive contrast. <br> CT is superior for guiding complex drainage procedures and assessing for complications.
 :::
-
-------------------------------------------------------------------------
 
 ## Diagnosis: Amebic Serology
 
@@ -851,35 +769,28 @@ US is the study of choice when biliary disease is suspected or in patients who c
 Microscopic examination of stool for cysts is of little value because *E. histolytica* cannot be distinguished from *E. dispar* without further testing. <br> Serology is the cornerstone of diagnosis.
 :::
 
-------------------------------------------------------------------------
-
 ## Emerging Diagnostics
 
 <br>
 
 -   **Molecular multiplex panels**:
+    -   Highly sensitive for amebic colitis
 
-```         
--   Highly sensitive for amebic colitis
+    -   Patients with liver abscess usually don't have concurrent intestinal infection
 
--   Patients with liver abscess usually don't have concurrent intestinal infection
+    -   **PCR**: Potential for aspirated fluid; limited to research labs
 
--   **PCR**: Potential for aspirated fluid; limited to research labs
+    -   **cfDNA testing**: Circulating cell-free DNA
 
--   **cfDNA testing**: Circulating cell-free DNA
+        -   Recent study: 90% sensitivity, 100% specificity for amebic abscess
 
-    -   Recent study: 90% sensitivity, 100% specificity for amebic abscess
-
-    -   Noninvasive blood-based assay
-```
+        -   Noninvasive blood-based assay
 
 ::: aside
 cfDNA testing represents a potentially transformative diagnostic approach. <br> One patient with a negative result had received 2 days of metronidazole prior, suggesting treatment can clear cfDNA from the bloodstream.
 :::
 
-------------------------------------------------------------------------
-
-## Treatment: Amebic Liver Abscess — Medical
+## Treatment: Amebic liver abscess — Medical
 
 <br>
 
@@ -895,34 +806,40 @@ Almost always treatable with **medical therapy alone**
 | **Paromomycin** (luminal agent) | Follow-up to eliminate colonization |
 
 ::: aside
-Decreased fever and abdominal pain are usually observed within 3–5 days of starting therapy. Luminal treatment is essential because patients frequently remain colonized despite nitroimidazole therapy.
+Decreased fever and abdominal pain are usually observed within 3–5 days of starting therapy. <br> Luminal treatment is essential because patients frequently remain colonized despite nitroimidazole therapy
 :::
 
-------------------------------------------------------------------------
-
-## Treatment: When to Drain Amebic Abscess
+## Treatment: When to drain amebic abscess
 
 <br> <br> - Uncomplicated: drainage **NOT required** - Indications for drainage: - No response to medical therapy (\>5–7 days) - Diagnostic uncertainty (rule out pyogenic) - Large lesions at risk for rupture - Left-sided abscesses (pericardial rupture risk) - Bacterial superinfection (1–5% of cases) - Percutaneous preferred over surgical drainage
 
 ::: aside
-One RCT found a salutary effect only in patients with large abscesses (\>300 mL). Routine drainage has not been shown to shorten hospital stay or improve outcomes in uncomplicated cases.
+One RCT found a salutary effect only in patients with large abscesses (\>300 mL). <br> Routine drainage has not been shown to shorten hospital stay or improve outcomes in uncomplicated cases.
 :::
-
-------------------------------------------------------------------------
 
 ## Treatment: Pyogenic Liver Abscess — Drainage
 
-<br> <br> - **Percutaneous catheter drainage**: Preferred primary therapy - Success rate: **69–90%** - Can be performed at time of diagnosis - Catheter left in place 5–14 days until drainage resolves - Recent success rates with antibiotics: **80–95%** (even for \>10 cm abscesses) - Surgical drainage if: percutaneous fails, concurrent surgical disease, multiple/loculated abscesses :::
+<br>
+
+-   **Percutaneous catheter drainage**: Preferred primary therapy
+
+    -   Success rate: **69–90%**
+
+    -   Can be performed at time of diagnosis
+
+    -   Catheter left in place 5–14 days until drainage resolves
+
+    -   Recent success rates with antibiotics: **80–95%** (even for \>10 cm abscesses)
+
+    -   Surgical drainage if: percutaneous fails, concurrent surgical disease, multiple/loculated abscesses
 
 ::: aside
-Two recent meta-analyses found percutaneous drainage superior to aspiration in recurrence rates, speed of resolution, and duration of antibiotic use. <br> The technique is now first-line at most institutions.
+Two recent meta-analyses found percutaneous drainage superior to aspiration in recurrence rates, speed of resolution, and duration of antibiotic use. The technique is now first-line at most institutions.
 :::
-
-------------------------------------------------------------------------
 
 ## Treatment: Pyogenic Liver Abscess — Antibiotics
 
-<br> <br>
+<br>
 
 | Approach | Agents |
 |------------------------------------|------------------------------------|
@@ -930,10 +847,8 @@ Two recent meta-analyses found percutaneous drainage superior to aspiration in r
 | **Combination** | 3rd/4th-gen cephalosporin + metronidazole OR fluoroquinolone + metronidazole |
 
 ::: aside
-Antibiotic choice should be guided by suspected source. Biliary source suggests gram-negatives and enterococci. Colonic/pelvic source suggests gram-negatives and anaerobes. Always consider metronidazole if amebic abscess cannot be excluded.
+Antibiotic choice should be guided by suspected source. Biliary source suggests gram-negatives and enterococci. Colonic/pelvic source suggests gram-negatives and anaerobes. <br> Always consider metronidazole if amebic abscess cannot be excluded
 :::
-
-------------------------------------------------------------------------
 
 ## Antibiotic Duration: An Open Question
 
@@ -949,15 +864,11 @@ Antibiotic choice should be guided by suspected source. Biliary source suggests 
 
 -   **Singapore RCT**: 4-week oral ciprofloxacin noninferior to 4-week IV ceftriaxone for *K. pneumoniae*
 
-```         
 -   Follow-up imaging to guide duration
-```
 
 ::: notes
-The Singapore RCT supporting oral ciprofloxacin for *K. pneumoniae* liver abscess may change practice patterns, particularly for K1/K2 strains. <br> Individualized approaches guided by clinical response are increasingly recommended.
+The Singapore RCT supporting oral ciprofloxacin for *K. pneumoniae* liver abscess may change practice patterns, particularly for K1/K2 strains. <br> Individualized approaches guided by clinical response are increasingly recommended
 :::
-
-------------------------------------------------------------------------
 
 ## Aspiration vs. Catheter Drainage
 
@@ -971,10 +882,8 @@ The Singapore RCT supporting oral ciprofloxacin for *K. pneumoniae* liver absces
 | Best for | Small, solitary abscesses | Larger, multiple abscesses |
 
 ::: aside
-Two recent meta-analyses (\>2,800 patients combined) found percutaneous drainage was superior to aspiration alone. However, heterogeneity in study populations limits firm conclusions about specific subgroups.
+Two recent meta-analyses (\>2,800 patients combined) found percutaneous drainage was superior to aspiration alone. <br> However, heterogeneity in study populations limits firm conclusions about specific subgroups.
 :::
-
-------------------------------------------------------------------------
 
 # Biliary tract infections {background-color="#9B0014"}
 
@@ -1001,7 +910,7 @@ Two recent meta-analyses (\>2,800 patients combined) found percutaneous drainage
 <br>
 
 ::: aside
-In endemic regions, parasites such as Ascaris and Clonorchis may cause biliary disease. Clonorchis sinensis is associated with cholangiocarcinoma in Southeast Asia.
+In endemic regions, parasites such as Ascaris and Clonorchis may cause biliary disease. <br>Clonorchis sinensis is associated with cholangiocarcinoma in Southeast Asia.
 :::
 
 ------------------------------------------------------------------------
@@ -1025,7 +934,7 @@ In endemic regions, parasites such as Ascaris and Clonorchis may cause biliary d
 <br>
 
 ::: aside
-Acalculous cholecystitis is more common in critically ill patients and carries a higher mortality rate. Early recognition and cholecystectomy are essential.
+Acalculous cholecystitis is more common in critically ill patients and carries a higher mortality rate. Early recognition and cholecystectomy are essential
 :::
 
 ------------------------------------------------------------------------
