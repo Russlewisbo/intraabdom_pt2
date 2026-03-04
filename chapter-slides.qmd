@@ -16,7 +16,7 @@ bibliography: references.bib
 csl: nlm-citation-sequence-superscript.csl
 ---
 
-## Intraabdominal Infections, part 2 {background-color="#9B0014"}
+## Intraabdominal Infections, Part 2 {background-color="#9B0014"}
 
 <br> <br>
 
