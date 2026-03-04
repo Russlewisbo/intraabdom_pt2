@@ -7,6 +7,7 @@ format:
   revealjs:
     theme: custom.scss
     slide-number: true
+    lightbox: true
     chalkboard: true
     preview-links: auto
     width: 1920
@@ -35,7 +36,7 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 
 ------------------------------------------------------------------------
 
-## What Is Appendicitis?
+## What is appendicitis?
 
 <br> <br>
 
@@ -48,7 +49,7 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 :::
 
 ::: {.column width="50%"}
-![](images/appendi.png)
+![](images/appendi.png){width="800"}
 :::
 :::::
 
@@ -72,7 +73,7 @@ Fitz first described the natural course of acute appendicitis in 1886, coining t
 :::
 
 ::: {.column width="50%"}
-![](images/surgery.png)
+![](images/surgery.png){width="600"}
 :::
 :::::
 
@@ -115,20 +116,28 @@ This geographic pattern has led to significant interest in the role of dietary f
 
 ## Anatomy of the appendix
 
-<br>
+::::: columns
+::: {.column width="50%"}
+![](images/appendix.png)
+:::
 
+::: {.column width="50%"}
 -   Tube-shaped structure, 5–10 cm long
 -   Arises 2–3 cm below terminal ileum
 -   Medial posterior wall of cecum
 -   Common atypical positions: descending pelvic, transverse retrocecal, ascending postileal
+:::
+:::::
+
+<br>
 
 ::: aside
-Atypical positions are common and can significantly alter the clinical presentation, making diagnosis more challenging. A retrocecal appendix may present with flank pain, while a pelvic appendix may present with suprapubic or lower abdominal pain.
+Atypical positions are common and can significantly alter the clinical presentation, making diagnosis more challenging. A retrocecal appendix may present with flank pain, while a pelvic appendix may present with suprapubic or lower abdominal pain
 :::
 
 ------------------------------------------------------------------------
 
-## The Appendix: Not just vestigial!
+## The Appendix: Not just vestigial
 
 <br>
 
@@ -139,7 +148,7 @@ Atypical positions are common and can significantly alter the clinical presentat
 -   Sheds bacteria at 2–3 mL/day
 
 ::: aside
-Recent studies have shifted our understanding of the appendix from a useless vestige to an important component of the gut immune system. This has implications for understanding appendicitis not as merely a surgical nuisance but as a significant infection with complex ecology.
+Recent studies have shifted our understanding of the appendix from a useless vestige to an important component of the gut immune system. <br>This has implications for understanding appendicitis not as merely a surgical nuisance but as a significant infection with complex ecology
 :::
 
 ------------------------------------------------------------------------
@@ -148,15 +157,23 @@ Recent studies have shifted our understanding of the appendix from a useless ves
 
 <br>
 
+::::: columns
+::: {.column width="50%"}
+![](images/appendicitis_path.png)
+:::
+
+::: {.column width="50%"}
 1.  Luminal obstruction (fecaliths, foreign bodies, tumor)
 2.  Mucus accumulation → increased intraluminal pressure
 3.  Lymphatic/vascular compression
 4.  Ischemic mucosal damage
 5.  Microbial invasion and inflammation
 6.  Gangrene → perforation (if untreated)
+:::
+:::::
 
 ::: aside
-The pathologic hallmark is polymorphonuclear cells within the appendiceal wall with edema and vascular congestion. This model has been taught for over a century but is now being challenged by emerging evidence.
+The pathologic hallmark is polymorphonuclear cells within the appendiceal wall with edema and vascular congestion. This model has been taught for over a century but is now being challenged by emerging evidence. [@morisDiagnosisManagementAcute2021]
 :::
 
 ------------------------------------------------------------------------
@@ -172,7 +189,7 @@ The pathologic hallmark is polymorphonuclear cells within the appendiceal wall w
 
 ::: {.column width="50%"}
 -   Fecaliths found in only a **minority** of cases
--   Medical (antibiotic) treatment is effective
+-   Medical (antibiotic) treatment alone is effective in many patients
 -   Alternative etiologies proposed:
     -   Infectious agents
     -   Dietary fiber deficiency
@@ -300,7 +317,7 @@ Most cases of mesenteric adenitis have an unidentified infectious cause. The dis
 :::::
 
 ::: aside
-McBurney point is located two to three fingerbreadths above the right anterior superior iliac spine on a line drawn to the umbilicus. This classic presentation occurs in a minority of patients.
+McBurney point is located two to three fingerbreadths above the right anterior superior iliac spine on a line drawn to the umbilicus. <br> This "classic" presentation occurs in a minority of patients.
 :::
 
 ------------------------------------------------------------------------
@@ -481,7 +498,7 @@ These two types of liver abscess have fundamentally different pathophysiology, m
 -   2,983 total cases of amebiasis in 1994
 -   Annual incidence decreasing 2.4% per year
 -   Worldwide: *E. histolytica* second only to malaria as cause of death from parasitic disease
--   Male:female ratio = **5–18:1** :::
+-   Male:female ratio = ranging from 5–18 : 1 in epidemiological studies
 
 ::: aside
 The epidemiology has been greatly informed by distinguishing *E. histolytica* from *E. dispar*, which is nonpathogenic. This distinction fundamentally changed how we interpret both clinical and epidemiologic data.
@@ -588,7 +605,6 @@ Diabetes is particularly important as a risk factor and is strongly associated w
 :::::
 
 ::: aside
-
 <br> <br>
 
 The Gal/GalNAc lectin is a key virulence factor that mediates adherence to colonic epithelium. The induction of apoptosis rather than necrosis produces the characteristic nonpurulent "anchovy paste" appearance that has fascinated pathologists for centuries.
@@ -718,13 +734,12 @@ Mutagenesis of *magA* abolishes hypermucoviscosity and increases sensitivity to 
 :::
 
 ::: aside
-
 The convergence of hypervirulence and antimicrobial resistance in *K. pneumoniae* represents one of the most concerning developments in infectious diseases. <br> The potential for a hypervirulent, multidrug-resistant *K. pneumoniae* pandemic is a significant global health threat.
 :::
 
 ------------------------------------------------------------------------
 
-## Clinical Features: Amebic Liver Abscess
+## Clinical Features: Ameobic Liver Abscess
 
 <br>
 
@@ -820,9 +835,9 @@ US is the study of choice when biliary disease is suspected or in patients who c
 
 <br>
 
--    Enzyme immunoassay: sensitivity **65–92%**, highly specific
+-   Enzyme immunoassay: sensitivity **65–92%**, highly specific
 
--    Can be **negative** if symptom duration \<2 weeks -
+-   Can be **negative** if symptom duration \<2 weeks -
 
 -   Repeat serology in 1–2 weeks usually positive
 
@@ -842,19 +857,21 @@ Microscopic examination of stool for cysts is of little value because *E. histol
 
 <br>
 
--    **Molecular multiplex panels**:
+-   **Molecular multiplex panels**:
 
-    -   Highly sensitive for amebic colitis
+```         
+-   Highly sensitive for amebic colitis
 
-    -   Patients with liver abscess usually don't have concurrent intestinal infection
+-   Patients with liver abscess usually don't have concurrent intestinal infection
 
-    -   **PCR**: Potential for aspirated fluid; limited to research labs
+-   **PCR**: Potential for aspirated fluid; limited to research labs
 
-    -   **cfDNA testing**: Circulating cell-free DNA
+-   **cfDNA testing**: Circulating cell-free DNA
 
-        -   Recent study: 90% sensitivity, 100% specificity for amebic abscess
+    -   Recent study: 90% sensitivity, 100% specificity for amebic abscess
 
-        -   Noninvasive blood-based assay
+    -   Noninvasive blood-based assay
+```
 
 ::: aside
 cfDNA testing represents a potentially transformative diagnostic approach. <br> One patient with a negative result had received 2 days of metronidazole prior, suggesting treatment can clear cfDNA from the bloodstream.
@@ -920,7 +937,21 @@ Antibiotic choice should be guided by suspected source. Biliary source suggests 
 
 ## Antibiotic Duration: An Open Question
 
-<br> <br> - No RCTs establishing optimal duration - Meta-analysis: pooled mean **32.7 days** - Traditional: IV 2–3 weeks → oral 4–6 weeks total - Some evidence for shorter courses (2–4 weeks) - **Singapore RCT**: 4-week oral ciprofloxacin noninferior to 4-week IV ceftriaxone for *K. pneumoniae* - Follow-up imaging to guide duration
+<br>
+
+-   No RCTs establishing optimal duration
+
+-   Meta-analysis: pooled mean **32.7 days**
+
+    -   Traditional: IV 2–3 weeks → oral 4–6 weeks total
+
+    -   Some evidence for shorter courses (2–4 weeks)
+
+-   **Singapore RCT**: 4-week oral ciprofloxacin noninferior to 4-week IV ceftriaxone for *K. pneumoniae*
+
+```         
+-   Follow-up imaging to guide duration
+```
 
 ::: notes
 The Singapore RCT supporting oral ciprofloxacin for *K. pneumoniae* liver abscess may change practice patterns, particularly for K1/K2 strains. <br> Individualized approaches guided by clinical response are increasingly recommended.
@@ -930,7 +961,14 @@ The Singapore RCT supporting oral ciprofloxacin for *K. pneumoniae* liver absces
 
 ## Aspiration vs. Catheter Drainage
 
-<br> <br> \| Feature \| Aspiration \| Catheter Drainage \| \|---\|---\|---\| \| Success rate \| 58–88% (≤5 cm) \| 69–90% \| \| Recurrence \| Higher \| Lower \| \| Meta-analysis evidence \| Drainage superior \| Drainage superior \| \| Best for \| Small, solitary abscesses \| Larger, multiple abscesses \|
+<br>
+
+| Feature | Aspiration | Catheter Drainage |
+|----|----|----|
+| Success rate | 58–88% (≤5 cm) | 69–90% |
+| Recurrence | Higher | Lower |
+| Meta-analysis evidence | Drainage superior | Drainage superior |
+| Best for | Small, solitary abscesses | Larger, multiple abscesses |
 
 ::: aside
 Two recent meta-analyses (\>2,800 patients combined) found percutaneous drainage was superior to aspiration alone. However, heterogeneity in study populations limits firm conclusions about specific subgroups.
@@ -942,7 +980,25 @@ Two recent meta-analyses (\>2,800 patients combined) found percutaneous drainage
 
 ## Biliary System Infections: Overview
 
-<br> <br> - Infections associated with **obstruction to bile flow** - Gallstones: common and usually asymptomatic - 1% to 4% complicated by acute cholecystitis - Over 100,000 cholecystectomies per year in Italy - 2–15% of cases are **acalculous cholecystitis**
+::::: columns
+::: {.column width="50%"}
+-   Infections associated with **obstruction to bile flow**
+
+-   Gallstones: common and usually asymptomatic
+
+-   1% to 4% complicated by acute cholecystitis
+
+    -   Over 100,000 cholecystectomies per year in Italy
+
+    -   2–15% of cases are **acalculous cholecystitis**
+:::
+
+::: {.column width="50%"}
+![](images/cholelithiasis-2.png)
+:::
+:::::
+
+<br>
 
 ::: aside
 In endemic regions, parasites such as Ascaris and Clonorchis may cause biliary disease. Clonorchis sinensis is associated with cholangiocarcinoma in Southeast Asia.
@@ -952,13 +1008,21 @@ In endemic regions, parasites such as Ascaris and Clonorchis may cause biliary d
 
 ## Cholecystitis: Key Points
 
-<br> <br>
+::::: columns
+::: {.column width="50%"}
+![](images/cholelithiasis.png)
+:::
 
+::: {.column width="50%"}
 -   Inflammation/bacterial infection of the gallbladder
 -   Usually from obstructing gallstones
 -   Acalculous cholecystitis: similar process without stones
 -   Treatment: cholecystectomy + antibiotics
 -   Mortality higher in acalculous cases
+:::
+:::::
+
+<br>
 
 ::: aside
 Acalculous cholecystitis is more common in critically ill patients and carries a higher mortality rate. Early recognition and cholecystectomy are essential.
@@ -968,11 +1032,19 @@ Acalculous cholecystitis is more common in critically ill patients and carries a
 
 ## Cholangitis: Key Points
 
+::::: columns
+::: {.column width="50%"}
 -   Inflammation/infection of the bile ducts
 -   **Charcot triad**: fever, jaundice, RUQ pain
 -   **Reynolds pentad**: triad + hypotension + altered mental status (sepsis)
 -   Life-threatening emergency requiring urgent biliary decompression
 -   Mortality: 5–10% with treatment; up to 90% without
+:::
+
+::: {.column width="50%"}
+![](images/ascending%20cholangitis.png)
+:::
+:::::
 
 ::: aside
 Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or percutaneous transhepatic drainage) is the cornerstone of management and should be performed urgently.
@@ -980,7 +1052,75 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 
 ------------------------------------------------------------------------
 
-## Summary: Comparing Hepatic Infections
+## ERCP or percutaneous transhepatic drainage
+
+::::: columns
+::: {.column width="50%"}
+![](images/ercp.png)
+:::
+
+::: {.column width="50%"}
+![](images/percutaneous.png)
+:::
+:::::
+
+## Antibiotic therapy billary tract infections
+
+| Good Penetration (ABSCR ≥1) | ABSCR | Low Penetration (ABSCR \<1) | ABSCR |
+|-----------------------------|-------|-----------------------------|-------|
+| Piperacillin/tazobactam     | 4.8   | Ceftriaxone                 | 0.75  |
+| Tigecycline                 | \>10  | Cefotaxime                  | 0.23  |
+| Amoxicillin/clavulanate     | 1.1   | Meropenem                   | 0.38  |
+| Ciprofloxacin               | \>5   | Ceftazidime                 | 0.18  |
+| Ampicillin/sulbactam        | 2.4   | Vancomycin                  | 0.41  |
+| Cefepime                    | 2.04  | Amikacin                    | 0.54  |
+| Levofloxacin                | 1.6   | Gentamicin                  | 0.30  |
+| Penicillin G                | \>5   |                             |       |
+| Imipenem                    | 1.01  |                             |       |
+
+*ABSCR = Antibiotic Bile/Serum Concentration Ratio. Source: Ansaloni et al. PMID 27307785*
+
+## Biliary Tract Infections: Mild–Moderate Severity {.smaller}
+
+**Community-acquired \| No prior biliary instrumentation \| Low resistance risk**
+
+| Regimen | Agents |
+|------------------------------------|------------------------------------|
+| 3rd-gen cephalosporin | Ceftriaxone, cefotaxime |
+| 2nd-gen cephalosporin | Cefuroxime |
+| 1st-gen cephalosporin | Cefazolin *(cholecystitis only)* |
+| Fluoroquinolone | Ciprofloxacin, levofloxacin *(if local resistance permits)* |
+| β-lactam/β-lactamase inhibitor | Amoxicillin/clavulanate |
+
+::: callout-note
+Anaerobic coverage **not required** unless bilioenteric anastomosis or prior biliary intervention
+:::
+
+::: aside
+Solomkin et al. *CID* 2010 (IDSA/SIS Guidelines)
+:::
+
+## Biliary Tract Infections: Severe / Healthcare-Associated {.smaller}
+
+**Grade III cholangitis \| Prior instrumentation \| Healthcare-acquired \| High resistance risk**
+
+| Regimen | Agents |
+|------------------------------------|------------------------------------|
+| Carbapenem | Imipenem/cilastatin, meropenem, ertapenem |
+| β-lactam/β-lactamase inhibitor | Piperacillin/tazobactam |
+| Fluoroquinolone + anaerobic cover | Ciprofloxacin or levofloxacin + metronidazole |
+
+**Additional considerations:**
+
+-   Add **vancomycin** if MRSA risk (prior MRSA, healthcare-associated)
+-   Add **fluconazole** if *Candida* risk (immunosuppressed, prolonged prior antibiotics)
+-   Adjust for **local antibiogram** — fluoroquinolone resistance in *E. coli* \>10% in many centers
+
+::: aside
+Solomkin et al. *CID* 2010 (IDSA/SIS Guidelines)
+:::
+
+## Summary: Comparing Hepato-Biliary Infections
 
 <br> <br>
 
