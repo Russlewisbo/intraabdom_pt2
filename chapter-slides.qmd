@@ -39,10 +39,18 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 
 <br> <br>
 
+::::: columns
+::: {.column width="50%"}
 -   Acute inflammation of the vermiform appendix
 -   Often related to obstruction
 -   Complicated by polymicrobial infection
 -   Complications: perforation, peritonitis, intra-abdominal abscesses
+:::
+
+::: {.column width="50%"}
+![](images/appendi.png)
+:::
+:::::
 
 ::: notes
 Fitz first described the natural course of acute appendicitis in 1886, coining the term and advocating early surgical intervention. This historical perspective has shaped surgical practice for over a century.
@@ -54,11 +62,19 @@ Fitz first described the natural course of acute appendicitis in 1886, coining t
 
 <br> <br>
 
+::::: columns
+::: {.column width="50%"}
 -   Lifetime risk: **8.6% in men**, **6.7% in women**
 -   \~108 cases per 100,000 person-years (US)
 -   **190,000** appendectomies in the US (2018)
 -   42% decrease in appendectomies since 2011
 -   Mortality \<1% (but ≥5% in elderly)
+:::
+
+::: {.column width="50%"}
+![](images/surgery.png)
+:::
+:::::
 
 ::: aside
 The decline in appendectomies reflects the growing adoption of antibiotic-first strategies for uncomplicated appendicitis. This represents a paradigm shift from the doctrine of immediate surgery.
@@ -84,7 +100,7 @@ Appendicitis steadily increases through childhood and adolescence. Men have slig
 
 ## Geographic Variation
 
-<br> <br>
+<br>
 
 -   Lower incidence in rural, nonindustrialized areas
 -   Incidence increases with industrialization
@@ -97,9 +113,9 @@ This geographic pattern has led to significant interest in the role of dietary f
 
 ------------------------------------------------------------------------
 
-## Anatomy of the Appendix
+## Anatomy of the appendix
 
-<br> <br>
+<br>
 
 -   Tube-shaped structure, 5–10 cm long
 -   Arises 2–3 cm below terminal ileum
@@ -112,9 +128,9 @@ Atypical positions are common and can significantly alter the clinical presentat
 
 ------------------------------------------------------------------------
 
-## The Appendix: Not Just Vestigial
+## The Appendix: Not just vestigial!
 
-<br> <br>
+<br>
 
 -   Contributes to gut microbiome homeostasis
 -   Mucus-rich biofilm houses resident bacteria
@@ -128,9 +144,9 @@ Recent studies have shifted our understanding of the appendix from a useless ves
 
 ------------------------------------------------------------------------
 
-## Classic Pathogenesis Model
+## Classic pathogenesis model
 
-<br> <br>
+<br>
 
 1.  Luminal obstruction (fecaliths, foreign bodies, tumor)
 2.  Mucus accumulation → increased intraluminal pressure
@@ -145,10 +161,16 @@ The pathologic hallmark is polymorphonuclear cells within the appendiceal wall w
 
 ------------------------------------------------------------------------
 
-## Challenging the Classic Model
+## Challenging the classic pathology model
 
-<br> <br>
+<br>
 
+::::: columns
+::: {.column width="50%"}
+![](images/Screenshot%202026-03-04%20163054.png)
+:::
+
+::: {.column width="50%"}
 -   Fecaliths found in only a **minority** of cases
 -   Medical (antibiotic) treatment is effective
 -   Alternative etiologies proposed:
@@ -157,6 +179,8 @@ The pathologic hallmark is polymorphonuclear cells within the appendiceal wall w
     -   Microbiome dysbiosis
     -   Genetic susceptibility
     -   Environmental factors
+:::
+:::::
 
 ::: notes
 The success of non-operative management strongly suggests that physical obstruction may not be the primary mechanism in most cases. This has prompted reconsideration of the fundamental pathophysiology of appendicitis.
@@ -164,35 +188,75 @@ The success of non-operative management strongly suggests that physical obstruct
 
 ------------------------------------------------------------------------
 
-## The Dietary Fiber Hypothesis
+## The dietary fiber hypothesis
 
-<br> <br>
+<br>
 
+::::: columns
+::: {.column width="50%"}
+![](images/Screenshot%202026-03-04%20163230.png)
+:::
+
+::: {.column width="50%"}
 -   Short's observation (early 20th century): UK vs. Africa comparison
 -   Burkitt's hypothesis: fiber as bulking agent reduces risk
 -   Fiber prevents fecalith formation and impaction
 -   Microbiome influenced by dietary fiber content
 -   Interest in diet–microbiome–appendicitis axis growing
+:::
+:::::
 
-::: asides
-The observation that appendicitis rates increase with industrialization and the adoption of low-fiber Western diets has persisted for over a century and remains one of the most compelling epidemiologic clues to appendicitis pathogenesis.
+::: aside
+The observation that appendicitis rates increase with industrialization and the adoption of low-fiber Western diets has persisted for over a century and remains one of the most compelling epidemiologic clues to appendicitis pathogenesis
 :::
 
 ------------------------------------------------------------------------
 
-## Microbiology: Culture-Based
+## Microbiology: Culture-based
 
-<br> <br> - 10–14 organisms typically cultured from inflamed appendix - Reflects colonic microbiota - Key organisms: - *Escherichia coli* - *Bacteroides fragilis* group - *Prevotella* spp. - *Peptostreptococcus* spp. - *Streptococcus anginosus* group
+<br>
+
+-   10–14 organisms typically can be cultured from inflamed appendix!
+
+-   Reflects colonic microbiota
+
+-   Key organisms:
+
+    -   *Escherichia coli*
+
+    -   *Bacteroides fragilis* group
+
+    -   *Prevotella* spp.
+
+    -   *Peptostreptococcus* spp.
+
+    -   *Streptococcus anginosus* group
 
 ::: aside
-*Pseudomonas aeruginosa* found in 4–15% of cases. Anaerobic coverage is essential in antibiotic selection and should never be omitted.
+*Pseudomonas aeruginosa* found in 4–15% of cases. <br> **Anaerobic coverage is essential in antibiotic selection and should never be omitted**.
 :::
 
 ------------------------------------------------------------------------
 
 ## Microbiology: 16S rRNA Insights
 
-<br> <br> - Appendiceal microbiome is **remarkably diverse** - Dozens of phyla, hundreds of species - Distinct from other GI tract locations - Enriched in inflamed appendix: - *Fusobacterium* - *Peptostreptococcus* - *Parvimonas* - Dysbiosis may drive appendicitis (not obstruction)
+<br>
+
+-   Appendiceal microbiome is **remarkably diverse**
+
+-   Dozens of phyla, hundreds of species
+
+-   Distinct from other GI tract locations
+
+-   Enriched in inflamed appendix:
+
+    -   *Fusobacterium*
+
+    -   *Peptostreptococcus*
+
+    -   *Parvimonas*
+
+-   Dysbiosis may drive appendicitis (not obstruction)
 
 ::: aside
 These oral-type bacteria enriched in the inflamed appendix has led to the dysbiosis hypothesis—a paradigm shift in understanding appendicitis pathogenesis. The microbiome of the appendix is highly specialized and distinct from even the cecum.
@@ -200,7 +264,9 @@ These oral-type bacteria enriched in the inflamed appendix has led to the dysbio
 
 ------------------------------------------------------------------------
 
-## Specific Pathogens to Know
+## Specific pathogens to know
+
+<br>
 
 | Organism | Presentation |
 |------------------------------------|------------------------------------|
@@ -216,14 +282,22 @@ Most cases of mesenteric adenitis have an unidentified infectious cause. The dis
 
 ------------------------------------------------------------------------
 
-## Classic Clinical Presentation
+## Classic clinical presentation
 
-<br> <br>
+<br>
 
+::::: columns
+::: {.column width="50%"}
 1.  **Early**: Colicky, visceral periumbilical pain
 2.  **6–24 hours**: Migration to RLQ (somatic pain)
 3.  Pain at **McBurney point** (anterior appendix)
 4.  Associated: low-grade fever, anorexia, nausea, vomiting
+:::
+
+::: {.column width="50%"}
+![](images/Screenshot%202026-03-04%20133531.png)
+:::
+:::::
 
 ::: aside
 McBurney point is located two to three fingerbreadths above the right anterior superior iliac spine on a line drawn to the umbilicus. This classic presentation occurs in a minority of patients.
@@ -231,9 +305,9 @@ McBurney point is located two to three fingerbreadths above the right anterior s
 
 ------------------------------------------------------------------------
 
-## Physical Examination Signs
+## Physical examination signs
 
-<br> <br>
+<br>
 
 | Sign                   | Description                     |
 |------------------------|---------------------------------|
@@ -251,7 +325,7 @@ High fever or sudden pain reduction suggests perforation. Abdominal rigidity sug
 
 ## Diagnostic Challenges
 
-<br> <br>
+<br>
 
 ::: callout-warning
 Diagnosis is more difficult in: - Women of childbearing age (gynecologic mimics) - Pelvic appendixes (pelvic/LLQ pain) - Third-trimester pregnancy (RUQ pain shift) - Elderly patients (atypical presentations) - Young children (inability to localize pain)
@@ -263,7 +337,23 @@ The rate of negative appendectomy has decreased significantly since the widespre
 
 ------------------------------------------------------------------------
 
+## CT Imaging
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/Screenshot%202026-03-04%20165152.png)
+:::
+
+::: {.column width="50%"}
+![](images/Screenshot%202026-03-04%20165202.png)
+:::
+:::::
+
 ## Imaging
+
+<br>
 
 ::: incremental
 -   **CT with IV contrast**: Sensitivity and specificity both \>95%
@@ -280,9 +370,15 @@ CT has dramatically reduced the rate of negative appendectomies and improved ide
 
 ------------------------------------------------------------------------
 
-## Scoring Systems
+## Scoring systems
 
-<br> <br> - **Alvarado Score** (MANTRELS): migration, anorexia, nausea, tenderness, rebound, elevated temp, leukocytosis, shift to left - **AIR Score** (Appendicitis Inflammatory Response): incorporates CRP - Help stratify risk and guide imaging decisions :::
+<br>
+
+-   **Alvarado Score** (MANTRELS): migration, anorexia, nausea, tenderness, rebound, elevated temp, leukocytosis, shift to left
+
+-   **AIR Score** (Appendicitis Inflammatory Response):
+
+    -   incorporates CRP - Help stratify risk and guide imaging decisions
 
 ::: notes
 These scoring systems are useful for triaging patients and determining who needs imaging versus direct surgical consultation. The AIR score has been validated across multiple populations.
@@ -305,7 +401,7 @@ Laparoscopic approach has become the dominant surgical technique in most centers
 
 ------------------------------------------------------------------------
 
-## Treatment: Antibiotic-First Strategy
+## Treatment: Antibiotic-first strategy
 
 <br> <br>
 
@@ -324,7 +420,7 @@ The CODA and APPAC trials have provided strong evidence for the antibiotic-first
 
 ------------------------------------------------------------------------
 
-## Antibiotic Regimens for Appendicitis
+## Antibiotic regimens for appendicitis
 
 <br> <br>
 
@@ -339,7 +435,7 @@ Broad-spectrum coverage targeting both aerobic gram-negatives and anaerobes is e
 
 ------------------------------------------------------------------------
 
-## Appendicitis: Key Takeaways
+## Appendicitis: Key takeaways
 
 <br> <br>
 
@@ -360,7 +456,7 @@ The management of appendicitis is evolving rapidly. Shared decision-making betwe
 
 ------------------------------------------------------------------------
 
-## Liver Abscess: Two Categories
+## Liver abscess: Two categories
 
 <br> <br>
 
@@ -379,7 +475,7 @@ These two types of liver abscess have fundamentally different pathophysiology, m
 
 ## Amebic Liver Abscess: Epidemiology
 
-<br> <br>
+<br>
 
 -   Rare in the US (travelers, immigrants, MSM)
 -   2,983 total cases of amebiasis in 1994
@@ -395,13 +491,21 @@ The epidemiology has been greatly informed by distinguishing *E. histolytica* fr
 
 ## *E. histolytica* vs. *E. dispar*
 
-<br> <br>
+<br>
 
+::::: columns
+::: {.column width="50%"}
+![](images/Screenshot%202026-03-04%20164406.png)
+:::
+
+::: {.column width="50%"}
 -   *E. dispar*: nonpathogenic, colonizes 5–25% of persons
 -   *E. dispar* has **no propensity for invasive disease**
 -   Cannot distinguish by microscopy
 -   In industrialized countries: most *Entamoeba* = *E. dispar*
--   In endemic regions: *E. histolytica* may predominate :::
+-   **In endemic regions: *E. histolytica* may predominate**
+:::
+:::::
 
 ::: aside
 The appreciation of *E. dispar* as a distinct, nonpathogenic species was a major advance in understanding the epidemiology of amebiasis. This distinction explains why asymptomatic *Entamoeba* carriers rarely develop invasive disease.
@@ -411,7 +515,7 @@ The appreciation of *E. dispar* as a distinct, nonpathogenic species was a major
 
 ## Pyogenic Liver Abscess: Epidemiology
 
-<br> <br>
+<br>
 
 -   Incidence: **1–4 per 100,000** annually (US/Europe)
 -   In Asia: **5–10× higher** (community-acquired *K. pneumoniae*)
@@ -425,9 +529,9 @@ The emergence of hypervirulent *K. pneumoniae* as a cause of community-acquired 
 
 ------------------------------------------------------------------------
 
-## Hypervirulent *Klebsiella pneumoniae*
-
 ## Routes of Hepatic Invasion
+
+<br>
 
 | Route                       | Frequency |
 |-----------------------------|-----------|
@@ -446,7 +550,7 @@ Cholangitis has replaced appendicitis as the major identifiable cause. The high 
 
 ## Risk Factors for Pyogenic Liver Abscess
 
-<br> <br>
+<br>
 
 -   **Diabetes mellitus**: \>3× risk
 -   Biliary disease (gallstones, obstruction)
@@ -463,10 +567,12 @@ Diabetes is particularly important as a risk factor and is strongly associated w
 
 ------------------------------------------------------------------------
 
-## Pathogenesis: Amebic Liver Abscess
+## Pathogenesis: Amebic liver abscess
 
-<br> <br>
+<br>
 
+::::: columns
+::: {.column width="50%"}
 1.  Ingestion of *E. histolytica* cysts
 2.  Excystation in intestinal lumen
 3.  Trophozoites migrate to colon
@@ -474,6 +580,12 @@ Diabetes is particularly important as a risk factor and is strongly associated w
 5.  \~10% develop symptomatic colitis
 6.  Portal spread to liver in \<1% of cases
 7.  **Apoptosis** of hepatocytes → abscess formation
+:::
+
+::: {.column width="50%"}
+![](images/Entamoeba_histolytica_life_cycle-en%20(2).svg)
+:::
+:::::
 
 ::: aside
 The Gal/GalNAc lectin is a key virulence factor that mediates adherence to colonic epithelium. The induction of apoptosis rather than necrosis produces the characteristic nonpurulent "anchovy paste" appearance that has fascinated pathologists for centuries.
@@ -481,9 +593,20 @@ The Gal/GalNAc lectin is a key virulence factor that mediates adherence to colon
 
 ------------------------------------------------------------------------
 
+## Anchovy paste
+
+![](images/Screenshot%202026-03-04%20165702.png)
+
 ## Virulence Factors of *E. histolytica*
 
-<br> <br> \| Factor \| Function \| \|---\|---\| \| **Gal/GalNAc lectin** \| Epithelial adherence \| \| **Amoebapores** \| Pore formation in target cell membranes \| \| **Cysteine proteases** \| Tissue invasion, immune evasion \| \| **Apoptosis induction** \| Hepatocyte and neutrophil killing \|
+<br>
+
+| Factor              | Function                                |
+|---------------------|-----------------------------------------|
+| Gal/GalNAc lectin   | Epithelial adherence                    |
+| Amoebapores         | Pore formation in target cell membranes |
+| Cysteine proteases  | Tissue invasion, immune evasion         |
+| Apoptosis induction | Hepatocyte and neutrophil killing       |
 
 ::: aside
 Caspase-3-deficient mice are resistant to amebic liver abscess formation, underscoring the importance of host cell apoptosis in pathogenesis. The parasite essentially hijacks the host's own death machinery.
@@ -502,17 +625,29 @@ Caspase-3-deficient mice are resistant to amebic liver abscess formation, unders
     -   Neutrophils
     -   Interferon-γ
     -   Nitric oxide
-    -   Adaptive immunity :::
+    -   Adaptive immunity
 
 ::: aside
-The dramatic male predominance is partly explained by the role of testosterone in experimental models. This has led to investigation of sex hormones as potential therapeutic targets.
+The dramatic male predominance is partly explained by the role of testosterone in experimental models. <br> This has led to investigation of sex hormones as potential therapeutic targets.
 :::
 
 ------------------------------------------------------------------------
 
 ## Microbiology of Pyogenic Liver Abscess
 
-<br> <br> - Cultures positive in **80–90%** of cases - **Polymicrobial** in 20–50% - Key organisms: - *E. coli* and *K. pneumoniae* (most common gram-negatives) - *Streptococcus anginosus* group (most common gram-positive) - *Bacteroides* spp. (most common anaerobe) - Anaerobes recovered in 15–30%
+<br>
+
+-   Cultures positive in **80–90%** of cases
+
+-   **Polymicrobial** **in 20–50%** , key organisms:
+
+    -   *E. coli* and *K. pneumoniae* (most common gram-negatives)
+
+    -   *Streptococcus anginosus* group (most common gram-positive) -
+
+    -   *Bacteroides* spp. (most common anaerobe)
+
+    -   Anaerobes recovered in 15–30%
 
 ::: aside
 The source of the abscess guides the microbiology: biliary abscesses tend to be polymicrobial; cryptogenic abscesses are more often monomicrobial. This distinction has clinical implications for empiric antibiotic selection.
@@ -522,7 +657,25 @@ The source of the abscess guides the microbiology: biliary abscesses tend to be 
 
 ## Epidemic *K. pneumoniae* Liver Abscess
 
-<br> <br> - First noted in Taiwan in mid-1980s - Monomicrobial, often in diabetics - **No biliary tract disease** - Now accounts for **80% of cases in Asia** - Spreading globally - Capsular serotypes **K1 and K2**
+<br>
+
+::::: columns
+::: {.column width="50%"}
+-   First noted in Taiwan in mid-1980s
+
+-   Monomicrobial, often in diabetics
+
+-   **No biliary tract disease**
+
+-   Now accounts for **80% of cases in Asia**
+
+    -   Spreading globally - Capsular serotypes **K1 and K2**
+:::
+
+::: {.column width="50%"}
+![](images/hypervirulen_Kpneu.png)
+:::
+:::::
 
 ::: aside
 This is a truly distinctive clinical syndrome that has emerged as a global concern. The rapid spread and high mortality in some series have prompted international surveillance efforts.
