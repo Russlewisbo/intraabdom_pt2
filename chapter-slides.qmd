@@ -9,7 +9,6 @@ format:
     slide-number: true
     chalkboard: true
     preview-links: auto
-    transition: slide
     width: 1920
     height: 1080
 bibliography: references.bib
@@ -37,29 +36,17 @@ University of Padua
 | ![](images/dmmunipd_logo.jpeg){width="100"} | ![](images/unipd_seal_white.svg){width="100"} |
 
 
-## Learning Objectives — Appendicitis
-
-::: {.incremental}
-- Define appendicitis and its epidemiology
-- Describe pathogenesis and microbiology
-- Recognize clinical presentations
-- Outline diagnostic and therapeutic approaches
-:::
-
-::: {.notes}
-This section covers Chapter 80 from Mandell's. Appendicitis remains one of the most common surgical emergencies worldwide. Understanding the evolving approach to its management—from purely surgical to a more nuanced medical-surgical strategy—is essential for modern infectious disease practice.
-:::
 
 ---
 
 ## What Is Appendicitis?
 
-::: {.incremental}
+
 - Acute inflammation of the vermiform appendix
 - Often related to obstruction
 - Complicated by polymicrobial infection
 - Complications: perforation, peritonitis, intra-abdominal abscesses
-:::
+
 
 ::: {.notes}
 Fitz first described the natural course of acute appendicitis in 1886, coining the term and advocating early surgical intervention. This historical perspective has shaped surgical practice for over a century.
@@ -69,15 +56,16 @@ Fitz first described the natural course of acute appendicitis in 1886, coining t
 
 ## Epidemiology: By the Numbers
 
-::: {.incremental}
+<br> <br>
+
 - Lifetime risk: **8.6% in men**, **6.7% in women**
 - ~108 cases per 100,000 person-years (US)
 - **190,000** appendectomies in the US (2018)
 - 42% decrease in appendectomies since 2011
 - Mortality <1% (but ≥5% in elderly)
-:::
 
-::: {.notes}
+
+::: {.aside}
 The decline in appendectomies reflects the growing adoption of antibiotic-first strategies for uncomplicated appendicitis. This represents a paradigm shift from the doctrine of immediate surgery.
 :::
 
@@ -85,13 +73,14 @@ The decline in appendectomies reflects the growing adoption of antibiotic-first 
 
 ## Age and Sex Distribution
 
-::: {.incremental}
+<br> <br>
+
 - Peak incidence: **15–25 years**
 - Rare in infants
 - Declines after age 45 (<25% of cases)
 - Male-to-female ratio: **1.4:1**
 - Most common surgery for individuals ≤17 years
-:::
+
 
 ::: {.notes}
 Appendicitis steadily increases through childhood and adolescence. Men have slightly higher rates overall. The peak in adolescence and young adulthood makes early recognition particularly important in this demographic.
@@ -100,13 +89,13 @@ Appendicitis steadily increases through childhood and adolescence. Men have slig
 ---
 
 ## Geographic Variation
+<br> <br>
 
-::: {.incremental}
 - Lower incidence in rural, nonindustrialized areas
 - Incidence increases with industrialization
 - Similar pattern seen with diverticulitis
 - Estimated lifetime risk <1% in rural sub-Saharan Africa
-:::
+
 
 ::: {.notes}
 This geographic pattern has led to significant interest in the role of dietary fiber and the gut microbiome in appendicitis pathogenesis. The industrialization correlation suggests environmental or dietary factors.
@@ -115,13 +104,14 @@ This geographic pattern has led to significant interest in the role of dietary f
 ---
 
 ## Anatomy of the Appendix
+<br> <br>
 
 - Tube-shaped structure, 5–10 cm long
 - Arises 2–3 cm below terminal ileum
 - Medial posterior wall of cecum
 - Common atypical positions: descending pelvic, transverse retrocecal, ascending postileal
 
-::: {.notes}
+::: {.aside}
 Atypical positions are common and can significantly alter the clinical presentation, making diagnosis more challenging. A retrocecal appendix may present with flank pain, while a pelvic appendix may present with suprapubic or lower abdominal pain.
 :::
 
@@ -129,15 +119,16 @@ Atypical positions are common and can significantly alter the clinical presentat
 
 ## The Appendix: Not Just Vestigial
 
-::: {.incremental}
+<br> <br>
+
 - Contributes to gut microbiome homeostasis
 - Mucus-rich biofilm houses resident bacteria
 - Acts as a microbial "sanctuary"
 - Repopulates gut after diarrheal illness
 - Sheds bacteria at 2–3 mL/day
-:::
 
-::: {.notes}
+
+::: {.aside}
 Recent studies have shifted our understanding of the appendix from a useless vestige to an important component of the gut immune system. This has implications for understanding appendicitis not as merely a surgical nuisance but as a significant infection with complex ecology.
 :::
 
@@ -145,16 +136,16 @@ Recent studies have shifted our understanding of the appendix from a useless ves
 
 ## Classic Pathogenesis Model
 
-::: {.incremental}
+<br> <br>
+
 1. Luminal obstruction (fecaliths, foreign bodies, tumor)
 2. Mucus accumulation → increased intraluminal pressure
 3. Lymphatic/vascular compression
 4. Ischemic mucosal damage
 5. Microbial invasion and inflammation
 6. Gangrene → perforation (if untreated)
-:::
 
-::: {.notes}
+::: {.aside}
 The pathologic hallmark is polymorphonuclear cells within the appendiceal wall with edema and vascular congestion. This model has been taught for over a century but is now being challenged by emerging evidence.
 :::
 
@@ -162,7 +153,8 @@ The pathologic hallmark is polymorphonuclear cells within the appendiceal wall w
 
 ## Challenging the Classic Model
 
-::: {.incremental}
+<br> <br>
+
 - Fecaliths found in only a **minority** of cases
 - Medical (antibiotic) treatment is effective
 - Alternative etiologies proposed:
@@ -171,7 +163,7 @@ The pathologic hallmark is polymorphonuclear cells within the appendiceal wall w
   - Microbiome dysbiosis
   - Genetic susceptibility
   - Environmental factors
-:::
+
 
 ::: {.notes}
 The success of non-operative management strongly suggests that physical obstruction may not be the primary mechanism in most cases. This has prompted reconsideration of the fundamental pathophysiology of appendicitis.
@@ -181,15 +173,16 @@ The success of non-operative management strongly suggests that physical obstruct
 
 ## The Dietary Fiber Hypothesis
 
-::: {.incremental}
+<br> <br>
+
 - Short's observation (early 20th century): UK vs. Africa comparison
 - Burkitt's hypothesis: fiber as bulking agent reduces risk
 - Fiber prevents fecalith formation and impaction
 - Microbiome influenced by dietary fiber content
 - Interest in diet–microbiome–appendicitis axis growing
-:::
 
-::: {.notes}
+
+::: {.asides}
 The observation that appendicitis rates increase with industrialization and the adoption of low-fiber Western diets has persisted for over a century and remains one of the most compelling epidemiologic clues to appendicitis pathogenesis.
 :::
 
@@ -197,7 +190,7 @@ The observation that appendicitis rates increase with industrialization and the 
 
 ## Microbiology: Culture-Based
 
-::: {.incremental}
+<br> <br>
 - 10–14 organisms typically cultured from inflamed appendix
 - Reflects colonic microbiota
 - Key organisms:
@@ -208,7 +201,7 @@ The observation that appendicitis rates increase with industrialization and the 
   - *Streptococcus anginosus* group
 :::
 
-::: {.notes}
+::: {.aside}
 *Pseudomonas aeruginosa* found in 4–15% of cases. Anaerobic coverage is essential in antibiotic selection and should never be omitted.
 :::
 
@@ -216,7 +209,7 @@ The observation that appendicitis rates increase with industrialization and the 
 
 ## Microbiology: 16S rRNA Insights
 
-::: {.incremental}
+<br> <br>
 - Appendiceal microbiome is **remarkably diverse**
 - Dozens of phyla, hundreds of species
 - Distinct from other GI tract locations
@@ -227,7 +220,7 @@ The observation that appendicitis rates increase with industrialization and the 
 - Dysbiosis may drive appendicitis (not obstruction)
 :::
 
-::: {.notes}
+::: {.aside}
 These oral-type bacteria enriched in the inflamed appendix has led to the dysbiosis hypothesis—a paradigm shift in understanding appendicitis pathogenesis. The microbiome of the appendix is highly specialized and distinct from even the cecum.
 :::
 
@@ -243,7 +236,7 @@ These oral-type bacteria enriched in the inflamed appendix has led to the dysbio
 | *E. histolytica* | True appendicitis (rare) |
 | Viruses (EBV, CMV, measles) | Mesenteric adenitis |
 
-::: {.notes}
+::: {.aside}
 Most cases of mesenteric adenitis have an unidentified infectious cause. The disorder is usually discovered at surgery for suspected appendicitis when the appendix appears normal.
 :::
 
@@ -251,20 +244,22 @@ Most cases of mesenteric adenitis have an unidentified infectious cause. The dis
 
 ## Classic Clinical Presentation
 
-::: {.incremental}
+<br> <br>
+
 1. **Early**: Colicky, visceral periumbilical pain
 2. **6–24 hours**: Migration to RLQ (somatic pain)
 3. Pain at **McBurney point** (anterior appendix)
 4. Associated: low-grade fever, anorexia, nausea, vomiting
-:::
 
-::: {.notes}
+
+::: {.aside}
 McBurney point is located two to three fingerbreadths above the right anterior superior iliac spine on a line drawn to the umbilicus. This classic presentation occurs in a minority of patients.
 :::
 
 ---
 
 ## Physical Examination Signs
+<br> <br>
 
 | Sign | Description |
 |---|---|
@@ -274,13 +269,15 @@ McBurney point is located two to three fingerbreadths above the right anterior s
 | **Guarding** | Involuntary muscle contraction |
 | **Rebound tenderness** | Pain on release of pressure |
 
-::: {.notes}
+::: {.aside}
 High fever or sudden pain reduction suggests perforation. Abdominal rigidity suggests diffuse peritonitis. No single finding is diagnostic, and the combination of clinical and imaging findings is essential.
 :::
 
 ---
 
 ## Diagnostic Challenges
+
+<br> <br>
 
 ::: {.callout-warning}
 Diagnosis is more difficult in:
@@ -316,7 +313,7 @@ CT has dramatically reduced the rate of negative appendectomies and improved ide
 
 ## Scoring Systems
 
-::: {.incremental}
+<br> <br>
 - **Alvarado Score** (MANTRELS): migration, anorexia, nausea, tenderness, rebound, elevated temp, leukocytosis, shift to left
 - **AIR Score** (Appendicitis Inflammatory Response): incorporates CRP
 - Help stratify risk and guide imaging decisions
@@ -330,14 +327,13 @@ These scoring systems are useful for triaging patients and determining who needs
 
 ## Treatment: Surgical
 
-::: {.incremental}
+
 - **Laparoscopic appendectomy**: Standard of care
   - Shorter hospital stay
   - Less postoperative pain
   - Lower wound infection rates
 - Open appendectomy: reserved for complex cases
 - Interval appendectomy: considered after initial conservative management of appendiceal abscess
-:::
 
 ::: {.notes}
 Laparoscopic approach has become the dominant surgical technique in most centers worldwide. The transition from open to laparoscopic surgery has improved patient outcomes significantly.
@@ -347,18 +343,20 @@ Laparoscopic approach has become the dominant surgical technique in most centers
 
 ## Treatment: Antibiotic-First Strategy
 
+<br> <br>
+
 ::: {.callout-tip}
 An "antibiotic first" strategy has emerged as a safe and effective option for **uncomplicated** appendicitis
 :::
 
-::: {.incremental}
+
 - Avoids surgery in ~60–70% of patients
 - Outcomes comparable to appendectomy
 - Recurrence rate ~25–30% at 5 years
 - Patient selection is key: uncomplicated, no fecalith
-:::
 
-::: {.notes}
+
+::: {.aside}
 The CODA and APPAC trials have provided strong evidence for the antibiotic-first approach. However, patient selection and shared decision-making are critical. Patients must be reliable for follow-up.
 :::
 
@@ -366,14 +364,15 @@ The CODA and APPAC trials have provided strong evidence for the antibiotic-first
 
 ## Antibiotic Regimens for Appendicitis
 
-::: {.incremental}
+<br> <br>
+
 - **Uncomplicated**: Piperacillin-tazobactam or ceftriaxone + metronidazole
 - **Perforated**: IV antibiotics 3–5 days → oral step-down
 - Duration guided by clinical response
 - Ensure anaerobic coverage (metronidazole)
-:::
 
-::: {.notes}
+
+::: {.aside}
 Broad-spectrum coverage targeting both aerobic gram-negatives and anaerobes is essential given the polymicrobial nature of the infection. Some centers use oral step-down therapy as early as 48–72 hours if clinical improvement is evident.
 :::
 
@@ -381,14 +380,16 @@ Broad-spectrum coverage targeting both aerobic gram-negatives and anaerobes is e
 
 ## Appendicitis: Key Takeaways
 
-::: {.incremental}
+<br> <br>
+
+
 - Most common surgical emergency of the abdomen
 - Classic: periumbilical pain → RLQ migration
 - CT is the imaging gold standard in adults
 - Laparoscopic appendectomy remains definitive treatment
 - Antibiotic-first strategy: valid for uncomplicated cases
 - Microbiome dysbiosis: emerging pathogenic concept
-:::
+
 
 ::: {.notes}
 The management of appendicitis is evolving rapidly. Shared decision-making between patient and clinician, incorporating patient preferences and risk tolerance, is increasingly important.
@@ -396,26 +397,24 @@ The management of appendicitis is evolving rapidly. Shared decision-making betwe
 
 ---
 
-# Infections of the Liver and Biliary System
+# Infections of the Liver and Biliary System {background-color="#9B0014"}
 
 ---
 
 ## Learning Objectives — Hepatobiliary Infections
 
-::: {.incremental}
+{background-color="#9B0014"}
+
 - Differentiate amebic from pyogenic liver abscess
 - Understand the epidemiology of *K. pneumoniae* liver abscess
 - Describe diagnostic approaches
 - Outline therapeutic strategies including drainage
-:::
-
-::: {.notes}
-This section covers Chapter 77 from Mandell's. Liver abscesses and biliary infections represent a diverse group of disorders with distinct etiologies and management strategies. The emergence of hypervirulent K. pneumoniae has dramatically changed the epidemiology of liver abscess in Asia.
-:::
 
 ---
 
 ## Liver Abscess: Two Categories
+
+<br> <br>
 
 | Feature | Amebic | Pyogenic |
 |---|---|---|
@@ -424,15 +423,15 @@ This section covers Chapter 77 from Mandell's. Liver abscesses and biliary infec
 | "Pus" appearance | Anchovy paste (nonpurulent) | Purulent |
 | Primary treatment | Medical (metronidazole) | Drainage + antibiotics |
 
-::: {.notes}
+::: {.aside}
 These two types of liver abscess have fundamentally different pathophysiology, microbiology, and management strategies. Distinguishing them early is critical for guiding appropriate therapy.
 :::
 
 ---
 
 ## Amebic Liver Abscess: Epidemiology
+<br> <br>
 
-::: {.incremental}
 - Rare in the US (travelers, immigrants, MSM)
 - 2,983 total cases of amebiasis in 1994
 - Annual incidence decreasing 2.4% per year
@@ -440,15 +439,15 @@ These two types of liver abscess have fundamentally different pathophysiology, m
 - Male:female ratio = **5–18:1**
 :::
 
-::: {.notes}
+::: {.aside}
 The epidemiology has been greatly informed by distinguishing E. histolytica from E. dispar, which is nonpathogenic. This distinction fundamentally changed how we interpret both clinical and epidemiologic data.
 :::
 
 ---
 
 ## *E. histolytica* vs. *E. dispar*
+<br> <br>
 
-::: {.incremental}
 - *E. dispar*: nonpathogenic, colonizes 5–25% of persons
 - *E. dispar* has **no propensity for invasive disease**
 - Cannot distinguish by microscopy
@@ -456,7 +455,7 @@ The epidemiology has been greatly informed by distinguishing E. histolytica from
 - In endemic regions: *E. histolytica* may predominate
 :::
 
-::: {.notes}
+::: {.aside}
 The appreciation of E. dispar as a distinct, nonpathogenic species was a major advance in understanding the epidemiology of amebiasis. This distinction explains why asymptomatic *Entamoeba* carriers rarely develop invasive disease.
 :::
 
