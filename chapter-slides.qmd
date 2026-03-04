@@ -567,7 +567,7 @@ Diabetes is particularly important as a risk factor and is strongly associated w
 
 ------------------------------------------------------------------------
 
-## Pathogenesis: Amebic liver abscess
+## Pathogenesis: Amoebic liver abscess
 
 <br>
 
@@ -583,11 +583,14 @@ Diabetes is particularly important as a risk factor and is strongly associated w
 :::
 
 ::: {.column width="50%"}
-![](images/Entamoeba_histolytica_life_cycle-en%20(2).svg)
+![](images/Entamoeba_histolytica_life_cycle-en%20(2).svg){width="800"}
 :::
 :::::
 
 ::: aside
+
+<br> <br>
+
 The Gal/GalNAc lectin is a key virulence factor that mediates adherence to colonic epithelium. The induction of apoptosis rather than necrosis produces the characteristic nonpurulent "anchovy paste" appearance that has fascinated pathologists for centuries.
 :::
 
@@ -616,7 +619,7 @@ Caspase-3-deficient mice are resistant to amebic liver abscess formation, unders
 
 ## Host Factors in Amebic Liver Abscess
 
-<br> <br>
+<br>
 
 -   **HLA-DR3**: increased susceptibility
 -   **Testosterone**: risk factor (10× higher in men)
@@ -667,9 +670,9 @@ The source of the abscess guides the microbiology: biliary abscesses tend to be 
 
 -   **No biliary tract disease**
 
--   Now accounts for **80% of cases in Asia**
+-   **Now accounts for 80% of cases in Asia**
 
-    -   Spreading globally - Capsular serotypes **K1 and K2**
+    -   Spreading globally - Capsular serotypes K1 and K2
 :::
 
 ::: {.column width="50%"}
@@ -683,7 +686,9 @@ This is a truly distinctive clinical syndrome that has emerged as a global conce
 
 ------------------------------------------------------------------------
 
-## *K. pneumoniae* Virulence Determinants
+## *K. pneumoniae* virulence determinants
+
+<br>
 
 -   **Capsular polysaccharide** (K1/K2 serotypes)
 -   *magA* gene → hypermucoviscosity
@@ -700,11 +705,11 @@ Mutagenesis of *magA* abolishes hypermucoviscosity and increases sensitivity to 
 
 ## Convergent Drug-Resistant *K. pneumoniae*
 
+<br>
+
 ::: callout-warning
 **Public Health Threat**
-:::
 
-::: incremental
 -   Classic hypervirulent strains: typically drug **sensitive**
 -   MDR/XDR strains can acquire virulence plasmids
 -   Or: hypervirulent strains can acquire resistance plasmids
@@ -713,6 +718,7 @@ Mutagenesis of *magA* abolishes hypermucoviscosity and increases sensitivity to 
 :::
 
 ::: aside
+
 The convergence of hypervirulence and antimicrobial resistance in *K. pneumoniae* represents one of the most concerning developments in infectious diseases. <br> The potential for a hypervirulent, multidrug-resistant *K. pneumoniae* pandemic is a significant global health threat.
 :::
 
@@ -720,20 +726,32 @@ The convergence of hypervirulence and antimicrobial resistance in *K. pneumoniae
 
 ## Clinical Features: Amebic Liver Abscess
 
-<br> <br> - Fever + dull, aching **RUQ pain** - Only 15–35% have GI symptoms - Acute (\<2 weeks) in \~2/3 of cases - Can develop **months to years** after travel - Risk factors: male sex, corticosteroid use - Indistinguishable from pyogenic on clinical grounds alone
+<br>
+
+-   Fever + dull, aching **RUQ pain**
+
+-   Only 15–35% have GI symptoms
+
+-   Acute (\<2 weeks) in \~2/3 of cases
+
+-   Can develop **months to years** after travel
+
+-   Risk factors: male sex, corticosteroid use
+
+-   Indistinguishable from pyogenic on clinical grounds alone
 
 ::: aside
-Epidemiologic risk factor assessment is crucial for differentiating amebic from pyogenic liver abscess at presentation. A history of travel to an endemic area should always prompt serology testing.
+Epidemiologic risk factor assessment is crucial for differentiating amebic from pyogenic liver abscess at presentation. <br>A history of travel to an endemic area should always prompt serology testing.
 :::
 
 ------------------------------------------------------------------------
 
 ## Clinical Features: Pyogenic Liver Abscess
 
-<br> <br>
+<br>
 
 -   Classic triad (fever, jaundice, RUQ tenderness) in only **10%**
--   Most common: **fever** without localizing signs
+-   Most common: **fever without localizing signs**
 -   General failure to thrive
 -   Malaise, fatigue, anorexia, weight loss
 -   Hematogenous abscesses present most acutely (3 days)
@@ -747,9 +765,18 @@ The nonspecific nature of symptoms means that a high index of suspicion is requi
 
 ## Comparing Amebic vs. Pyogenic Liver Abscess
 
-<br> <br> \| Feature \| Amebic \| Pyogenic \| \|---\|---\|---\| \| Male:female \| 5–18:1 \| 1–2.4:1 \| \| Age \| 30–40 \| 50–60 \| \| Duration (days) \| \<14 \| 5–26 \| \| Mortality \| 10–25% \| 0–5% \| \| Abdominal pain \| 80% \| 55% \| \| RUQ tenderness \| 75% \| 25–55% \|
+<br>
 
-::: notes
+| Feature         | Amebic | Pyogenic |
+|-----------------|--------|----------|
+| Male:female     | 5–18:1 | 1–2.4:1  |
+| Age             | 30–40  | 50–60    |
+| Duration (days) | \<14   | 5–26     |
+| Mortality       | 10–25% | 0–5%     |
+| Abdominal pain  | 80%    | 55%      |
+| RUQ tenderness  | 75%    | 25–55%   |
+
+::: aside
 Note the striking gender difference—amebic liver abscess has a much stronger male predominance, likely related to testosterone and sex-based differences in immune response.
 :::
 
@@ -757,24 +784,24 @@ Note the striking gender difference—amebic liver abscess has a much stronger m
 
 ## Diagnosis: Laboratory Findings
 
-<br> <br>
+<br>
 
 -   **Leukocytosis**: present in most patients (75–80%)
 -   **Elevated alkaline phosphatase**: most common abnormal LFT (\~2/3)
     -   Normal value does not exclude diagnosis
 -   Transaminases: generally mildly elevated
--   **Procalcitonin**: typically elevated
+-   Procalcitonin: typically elevated
 -   Albumin and PT: usually normal
 
 ::: aside
-Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent predictors of mortality with odds ratios of 13 and 14 respectively. Procalcitonin appears to be more specific than CRP.
+Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent predictors of mortality with odds ratios of 13 and 14 respectively. <br> Procalcitonin appears to be more specific than CRP.
 :::
 
 ------------------------------------------------------------------------
 
 ## Diagnosis: Imaging
 
-<br> <br>
+<br>
 
 | Modality | Sensitivity | Best For |
 |------------------------|------------------------|------------------------|
@@ -791,7 +818,19 @@ US is the study of choice when biliary disease is suspected or in patients who c
 
 ## Diagnosis: Amebic Serology
 
-<br> <br> - Enzyme immunoassay: sensitivity **65–92%**, highly specific - Can be **negative** if symptom duration \<2 weeks - Repeat serology in 1–2 weeks usually positive - Positive serology confirms present or **prior** infection - Cannot distinguish from extraintestinal disease - ELISA for Gal/GalNAc lectin: \>95% sensitivity in serum
+<br>
+
+-    Enzyme immunoassay: sensitivity **65–92%**, highly specific
+
+-    Can be **negative** if symptom duration \<2 weeks -
+
+-   Repeat serology in 1–2 weeks usually positive
+
+-   Positive serology confirms present or **prior** infection
+
+-   Cannot distinguish from extraintestinal disease
+
+-   ELISA for Gal/GalNAc lectin: \>95% sensitivity in serum
 
 ::: aside
 Microscopic examination of stool for cysts is of little value because *E. histolytica* cannot be distinguished from *E. dispar* without further testing. <br> Serology is the cornerstone of diagnosis.
@@ -801,7 +840,21 @@ Microscopic examination of stool for cysts is of little value because *E. histol
 
 ## Emerging Diagnostics
 
-<br> <br> - **Molecular multiplex panels**: FDA-approved for enteric pathogens - Highly sensitive for amebic colitis - Patients with liver abscess usually don't have concurrent intestinal infection - **PCR**: Potential for aspirated fluid; limited to research labs - **cfDNA testing**: Circulating cell-free DNA - Recent study: 90% sensitivity, 100% specificity for amebic abscess - Noninvasive blood-based assay
+<br>
+
+-    **Molecular multiplex panels**:
+
+    -   Highly sensitive for amebic colitis
+
+    -   Patients with liver abscess usually don't have concurrent intestinal infection
+
+    -   **PCR**: Potential for aspirated fluid; limited to research labs
+
+    -   **cfDNA testing**: Circulating cell-free DNA
+
+        -   Recent study: 90% sensitivity, 100% specificity for amebic abscess
+
+        -   Noninvasive blood-based assay
 
 ::: aside
 cfDNA testing represents a potentially transformative diagnostic approach. <br> One patient with a negative result had received 2 days of metronidazole prior, suggesting treatment can clear cfDNA from the bloodstream.
@@ -811,7 +864,7 @@ cfDNA testing represents a potentially transformative diagnostic approach. <br> 
 
 ## Treatment: Amebic Liver Abscess — Medical
 
-<br> <br>
+<br>
 
 ::: callout-tip
 Almost always treatable with **medical therapy alone**
