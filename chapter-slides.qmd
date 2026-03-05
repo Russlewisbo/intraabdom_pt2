@@ -139,7 +139,7 @@ Atypical positions are common and can significantly alter the clinical presentat
 Recent studies have shifted our understanding of the appendix from a useless vestige to an important component of the gut immune system. <br>This has implications for understanding appendicitis not as merely a surgical nuisance but as a significant infection with complex ecology
 :::
 
-## Classic parthogenesis model
+## Classic pathogenesis model
 
 <br>
 
@@ -213,7 +213,7 @@ The observation that appendicitis rates increase with industrialization and the 
 
 <br>
 
--   10–14 organisms typically can be cultured from inflamed appendix!
+-   10–14 organisms typically can be cultured from inflamed appendix
 
 -   Reflects colonic microbiota
 
@@ -350,7 +350,10 @@ The rate of negative appendectomy has decreased significantly since the widespre
 
 <br>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ee3445f (Add Alvarado/IR score interpretation slides, fix typos, add citations, update styling)
 -   **CT with IV contrast**: Sensitivity and specificity both \>95%
     -   Preferred in adults
     -   Dilated appendix \>6 mm, periappendiceal fat stranding
@@ -379,6 +382,15 @@ CT has dramatically reduced the rate of negative appendectomies and improved ide
 | L      | Leukocytosis (\>10,000/mm³)               | 2      |
 | S      | Shift to left (neutrophilia \>75%)        | 1      |
 
+## **Alvarado Score** (MANTRELS): Interpretation
+
+| Score | Risk | Recommendation |
+|------------------------|------------------------|------------------------|
+| **1–4** | Low | Appendicitis unlikely; consider discharge with observation |
+| **5–6** | Equivocal/intermediate | Further workup warranted (imaging, observation, surgical consult) |
+| **7–8** | High | Likely appendicitis; surgical consultation indicated |
+| **9–10** | Very high | Appendicitis highly probable; proceed to surgery |
+
 ## **IR Score** (Appendicitis Inflammatory Response):
 
 <center>Total: 0–12 points</center>
@@ -402,6 +414,28 @@ CT has dramatically reduced the rate of negative appendectomies and improved ide
 These scoring systems are useful for triaging patients and determining who needs imaging versus direct surgical consultation. The AIR score has been validated across multiple populations.
 :::
 
+## IR score interpretation
+
+### Interpretation
+
+| Score    | Risk          | Recommendation                                      |
+|----------------|----------------|-----------------------------------------|
+| **0–4**  | Low           | Appendicitis unlikely; discharge with observation   |
+| **5–8**  | Indeterminate | Imaging, active observation, or surgical consult    |
+| **9–12** | High          | Appendicitis highly probable; surgical intervention |
+
+**Key advantages over Alvarado**
+
+-   **CRP is included** — a more sensitive and specific acute-phase reactant than WBC alone
+
+-   **Graded variables** — rebound tenderness, PMN%, WBC, and CRP are each weighted by severity rather than binary yes/no
+
+-   **Higher specificity** for ruling in appendicitis, and better **negative predictive value** for low scores
+
+-   Performs well in **both sexes**, with some studies showing superior performance to Alvarado in women
+
+-   Validated in multiple prospective European and international cohorts
+
 ## Treatment: Surgical
 
 ::::: columns
@@ -410,7 +444,7 @@ These scoring systems are useful for triaging patients and determining who needs
 :::
 
 ::: {.column width="50%"}
--   **Laparoscopic appendectomy**: Standard of care
+-   **Laparoscopic appendectomy**: <br>Standard of care
     -   Shorter hospital stay
     -   Less postoperative pain
     -   Lower wound infection rates
@@ -437,7 +471,7 @@ An "antibiotic first" strategy has emerged as a safe and effective option for **
 -   Patient selection is key: uncomplicated, no fecalith
 
 ::: aside
-The CODA and APPAC trials have provided strong evidence for the antibiotic-first approach. However, patient selection and shared decision-making are critical. <br> Patients must be reliable for follow-up.
+The CODA [@arandom2020] and APPAC [@salminen2015] trials have provided strong evidence for the antibiotic-first approach. However, patient selection and shared decision-making are critical. <br> <br>Patients must be reliable for follow-up.
 :::
 
 ## Antibiotic regimens for appendicitis
@@ -505,15 +539,15 @@ The epidemiology has been greatly informed by distinguishing *E. histolytica* fr
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/Screenshot%202026-03-04%20164406.png){width="500"}
+![](images/Screenshot%202026-03-04%20164406.png){fig-align="center" width="500"}
 :::
 
 ::: {.column width="50%"}
 -   *E. dispar*: nonpathogenic, colonizes 5–25% of persons
--   *E. dispar* has **no propensity for invasive disease**
+-   *E. dispar* has no propensity for invasive disease
 -   Cannot distinguish by microscopy
 -   In industrialized countries: most *Entamoeba* = *E. dispar*
--   **In endemic regions: *E. histolytica* may predominate**
+-   In endemic regions: *E. histolytica* may predominate
 :::
 :::::
 
@@ -525,8 +559,8 @@ The appreciation of *E. dispar* as a distinct, nonpathogenic species was a major
 
 <br>
 
--   Incidence: **1–4 per 100,000** annually (US/Europe)
--   In Asia: **5–10× higher** (community-acquired *K. pneumoniae*)
+-   Incidence: 1–4 per 100,000 annually (US/Europe)
+-   In Asia: 5–10× higher (community-acquired *K. pneumoniae*)
 -   Peak: 5th–6th decades of life
 -   50% solitary; right lobe most common
 -   Biliary disease: now the leading cause
@@ -552,7 +586,7 @@ The emergence of hypervirulent *K. pneumoniae* as a cause of community-acquired 
 Cholangitis has replaced appendicitis as the major identifiable cause. The high frequency of cryptogenic abscesses reflects our inability to identify a source in many cases, despite extensive investigation
 :::
 
-## Risk Factors for Pyogenic Liver Abscess
+## Risk factors for pyogenic liver abscess
 
 <br>
 
@@ -670,6 +704,8 @@ The source of the abscess guides the microbiology: biliary abscesses tend to be 
 
 ::: {.column width="50%"}
 ![](images/hypervirulen_Kpneu.png)
+
+Mucoid phenotype demonstrated by loop test
 :::
 :::::
 
@@ -682,7 +718,7 @@ This is a truly distinctive clinical syndrome that has emerged as a global conce
 <br>
 
 -   **Capsular polysaccharide** (K1/K2 serotypes)
--   *magA* gene → hypermucoviscosity
+-   ***magA*** **gene → hypermucoviscosity**
 -   *cps* gene cluster (25-kb chromosomal element)
 -   RmpA (mucoid phenotype regulator)
 -   Aerobactin (iron acquisition)
@@ -701,8 +737,8 @@ Mutagenesis of *magA* abolishes hypermucoviscosity and increases sensitivity to 
 
 -   Classic hypervirulent strains: typically drug **sensitive**
 -   MDR/XDR strains can acquire virulence plasmids
--   Or: hypervirulent strains can acquire resistance plasmids
--   Fatal ventilator-associated pneumonia outbreak in China
+-   Or hypervirulent strains can acquire resistance plasmids
+-   Fatal ventilator-associated pneumonia outbreaks in China
 -   Only a minority currently show hypervirulent phenotypes in lab
 :::
 
@@ -710,7 +746,7 @@ Mutagenesis of *magA* abolishes hypermucoviscosity and increases sensitivity to 
 The convergence of hypervirulence and antimicrobial resistance in *K. pneumoniae* represents one of the most concerning developments in infectious diseases. <br> <br>The potential for a hypervirulent, multidrug-resistant *K. pneumoniae* pandemic is a significant global health threat.
 :::
 
-## Clinical features: Amebic liver abscess
+## Clinical features: Amoebic liver abscess
 
 <br>
 
@@ -734,7 +770,7 @@ Epidemiologic risk factor assessment is crucial for differentiating amebic from 
 
 <br>
 
--   Classic triad (fever, jaundice, RUQ tenderness) in only **10%**
+-   Classic triad (fever, jaundice, RUQ tenderness) in only 10%
 -   Most common: **fever without localizing signs**
 -   General failure to thrive
 -   Malaise, fatigue, anorexia, weight loss
@@ -745,7 +781,7 @@ Epidemiologic risk factor assessment is crucial for differentiating amebic from 
 The nonspecific nature of symptoms means that a high index of suspicion is required. Before widespread imaging, liver abscess was among the most frequently identifiable causes of fever of unknown origin.
 :::
 
-## Comparing amebic vs. Pyogenic liver abscess
+## Comparing amoebic vs. Pyogenic liver abscess
 
 <br>
 
@@ -774,7 +810,7 @@ Note the striking gender difference—amebic liver abscess has a much stronger m
 -   Albumin and PT: usually normal
 
 ::: aside
-Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent predictors of mortality with odds ratios of 13 and 14 respectively. <br> <br>Procalcitonin appears to be more specific than CRP.
+Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent predictors of mortality with odds ratios of <br>13 and 14 respectively. <br> <br>Procalcitonin appears to be more specific than CRP.
 :::
 
 ## Diagnosis: imaging
@@ -782,9 +818,9 @@ Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent pred
 <br>
 
 | Modality | Sensitivity | Best For |
-|------------------------|------------------------|------------------------|
-| **Ultrasonography** | 70–90% | Initial assessment, biliary disease |
-| **CT (contrast-enhanced)** | \~95% | Definitive diagnosis, drainage guidance |
+|---------------------------|------------------|---------------------------|
+| **Ultrasonography** | 70–90% | Initial assessment, <br>biliary disease |
+| **CT (contrast-enhanced)** | \~95% | Definitive diagnosis, <br>drainage guidance |
 | **MRI** | High | Distinguishing from neoplasia |
 | **Fine-needle aspiration** | Definitive | Diagnostic confirmation |
 
@@ -792,24 +828,24 @@ Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent pred
 US is the study of choice when biliary disease is suspected or in patients who cannot receive contrast. <br> CT is superior for guiding complex drainage procedures and assessing for complications.
 :::
 
-## Diagnosis: amebic serology
+## Diagnosis: amoebic serology
 
 <br>
 
--   Enzyme immunoassay: sensitivity **65–92%**, highly specific
+-   Enzyme immunoassay: sensitivity 65–92%, highly specific
 
--   Can be **negative** if symptom duration \<2 weeks -
+-   Can be negative if symptom duration \<2 weeks
 
 -   Repeat serology in 1–2 weeks usually positive
 
--   Positive serology confirms present or **prior** infection
+-   Positive serology confirms present or prior infection
 
 -   Cannot distinguish from extraintestinal disease
 
 -   ELISA for Gal/GalNAc lectin: \>95% sensitivity in serum
 
 ::: aside
-Microscopic examination of stool for cysts is of little value because *E. histolytica* cannot be distinguished from *E. dispar* without further testing. <br> Serology is the cornerstone of diagnosis.
+Microscopic examination of stool for cysts is of little value because *E. histolytica* cannot be distinguished from *E. dispar* without further testing. <br> <br>Serology is the cornerstone of diagnosis.
 :::
 
 ## Emerging diagnostics
@@ -821,11 +857,11 @@ Microscopic examination of stool for cysts is of little value because *E. histol
 
     -   Patients with liver abscess usually don't have concurrent intestinal infection
 
-    -   **PCR**: Potential for aspirated fluid; limited to research labs
+    -   PCR: Potential for aspirated fluid; limited to research labs
 
-    -   **cfDNA testing**: Circulating cell-free DNA
+    -   cfDNA testing: Circulating cell-free DNA
 
-        -   Recent study: 90% sensitivity, 100% specificity for amebic abscess
+        -   Recent study: 90% sensitivity, 100% specificity for amoebic abscess
 
         -   Noninvasive blood-based assay
 
@@ -833,7 +869,7 @@ Microscopic examination of stool for cysts is of little value because *E. histol
 cfDNA testing represents a potentially transformative diagnostic approach. <br> One patient with a negative result had received 2 days of metronidazole prior, suggesting treatment can clear cfDNA from the bloodstream.
 :::
 
-## Treatment: Amebic liver abscess — Medical therapy
+## Treatment: Amoebic liver abscess — Medical therapy
 
 <br>
 
@@ -852,7 +888,7 @@ Almost always treatable with **medical therapy alone**
 Decreased fever and abdominal pain are usually observed within 3–5 days of starting therapy. <br> Luminal treatment is essential because patients frequently remain colonized despite nitroimidazole therapy
 :::
 
-## Treatment: When to drain amebic abscess
+## Treatment: When to drain amoebic abscess
 
 <br>
 
@@ -904,7 +940,7 @@ Two recent meta-analyses found percutaneous drainage superior to aspiration in r
 | **Combination** | 3rd/4th-gen cephalosporin + metronidazole OR fluoroquinolone + metronidazole |
 
 ::: aside
-Antibiotic choice should be guided by suspected source. Biliary source suggests gram-negatives and enterococci. Colonic/pelvic source suggests gram-negatives and anaerobes. <br> Always consider metronidazole if amebic abscess cannot be excluded
+Antibiotic choice should be guided by suspected source. Biliary source suggests gram-negatives and enterococci. Colonic/pelvic source suggests gram-negatives and anaerobes. <br> Always consider metronidazole if amoebic abscess cannot be excluded
 :::
 
 ## Antibiotic Duration: An open question
@@ -948,7 +984,7 @@ Two recent meta-analyses (\>2,800 patients combined) found percutaneous drainage
 
 ::::: columns
 ::: {.column width="50%"}
--   Infections associated with <br>**obstruction to bile flow**
+-   Infections associated with <br>obstruction to bile flow
 
 -   Gallstones: common and usually asymptomatic
 
@@ -956,7 +992,7 @@ Two recent meta-analyses (\>2,800 patients combined) found percutaneous drainage
 
     -   Over 100,000 cholecystectomies per year in Italy
 
-    -   2–15% of cases are **acalculous cholecystitis**
+    -   2–15% of cases are acalculous cholecystitis
 :::
 
 ::: {.column width="50%"}
@@ -976,7 +1012,7 @@ In endemic regions, parasites such as Ascaris and Clonorchis may cause biliary d
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/Screenshot 2026-03-04 191104.png){width="800"}
+![](images/Screenshot%202026-03-04%20191104.png){width="800"}
 :::
 
 ::: {.column width="50%"}
@@ -1003,7 +1039,7 @@ Acalculous cholecystitis is more common in critically ill patients and carries a
 -   Inflammation/infection of the bile ducts
 -   **Charcot triad**: fever, jaundice, RUQ pain
 -   **Reynolds pentad**: triad + hypotension + altered mental status (sepsis)
--   Life-threatening emergency requiring urgent biliary decompression <br> not an encapsulated infection
+-   Life-threatening emergency requiring urgent biliary decompression <br> not an encapsulated infection and will spill over to abdomen and bloodstream
 -   Mortality: 5–10% with treatment; up to 90% without
 :::
 
@@ -1044,15 +1080,15 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 | Penicillin G                | \>5   |                             |       |
 | Imipenem                    | 1.01  |                             |       |
 
-*ABSCR = Antibiotic Bile/Serum Concentration Ratio. Source: Ansaloni et al. PMID 27307785*
+<br> <br>*ABSCR = Antibiotic Bile/Serum Concentration Ratio. Source: Ansaloni et al. PMID 27307785*
 
-## Biliary Tract Infections: Mild–Moderate Severity {.smaller}
+## Biliary tract infections: Mild–moderate severity
 
 -   **Community-acquired**
 
--    **No prior biliary instrumentation**
+-   **No prior biliary instrumentation**
 
--    **Low resistance risk**
+-   **Low resistance risk**
 
 | Regimen | Agents |
 |------------------------------------|------------------------------------|
@@ -1062,11 +1098,15 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 | Fluoroquinolone | Ciprofloxacin, levofloxacin *(if local resistance permits)* |
 | β-lactam/β-lactamase inhibitor | Amoxicillin/clavulanate |
 
-::: callout-note
-Anaerobic coverage **not required** unless bilioenteric anastomosis or prior biliary intervention
-:::
+<br>
 
+<<<<<<< HEAD
 ## Biliary Tract Infections: Severe / Healthcare-Associated {.smaller}
+=======
+::: callout-note Anaerobic coverage **not required** unless bilioenteric anastomosis or prior biliary intervention :::
+
+## Biliary tract infections: Severe / healthcare-associated
+>>>>>>> ee3445f (Add Alvarado/IR score interpretation slides, fix typos, add citations, update styling)
 
 -   **Grade III cholangitis**
 
@@ -1074,7 +1114,7 @@ Anaerobic coverage **not required** unless bilioenteric anastomosis or prior bil
 
 -   **Healthcare-acquired**
 
--   **High resistance risk**
+-   **High resistance risk** <br>
 
 | Regimen | Agents |
 |------------------------------------|------------------------------------|
@@ -1082,17 +1122,17 @@ Anaerobic coverage **not required** unless bilioenteric anastomosis or prior bil
 | β-lactam/β-lactamase inhibitor | Piperacillin/tazobactam |
 | Fluoroquinolone + anaerobic cover | Ciprofloxacin or levofloxacin + metronidazole |
 
-**Additional considerations:**
+<br> **Additional considerations:**
 
 -   Add **vancomycin** if MRSA risk (prior MRSA, healthcare-associated)
 -   Add **fluconazole** if *Candida* risk (immunosuppressed, prolonged prior antibiotics)
 -   Adjust for **local antibiogram** — fluoroquinolone resistance in *E. coli* \>10% in many centers
 
 ::: aside
-Solomkin et al. *CID* 2010 (IDSA/SIS Guidelines)
+[@solomkin2010]
 :::
 
-## Summary: Comparing Hepato-Biliary Infections
+## Summary: Comparing hepato-biliary infections
 
 <br> <br>
 
@@ -1109,7 +1149,7 @@ Each condition has distinct epidemiology, pathogenesis, and management. The key 
 
 ------------------------------------------------------------------------
 
-## Clinical Decision Algorithm: Liver Abscess
+## Clinical decision algorithm: Liver abscess
 
 1.  **Suspect**: Fever + RUQ pain/tenderness + leukocytosis
 2.  **Image**: CT with contrast (or US if CT not available)
