@@ -32,7 +32,7 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 
 |  |  |
 |------------------------------------|------------------------------------|
-| ![](images/dmmunipd_logo.jpeg){width="100"} | ![](images/unipd_seal_white.svg){width="100"} |
+| ![](images/dmmunipd_logo.jpeg){width="150"} | ![](images/unipd_seal_white.svg){width="200"} |
 
 ## What is appendicitis?
 
@@ -47,7 +47,7 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 :::
 
 ::: {.column width="50%"}
-![](images/appendi.png){width="800"}
+![](images/appendi.png){width="500"}
 :::
 :::::
 
@@ -69,7 +69,7 @@ Fitz first described the natural course of acute appendicitis in 1886, coining t
 :::
 
 ::: {.column width="50%"}
-![](images/surgery.png){width="600"}
+![](images/surgery.png){width="500"}
 :::
 :::::
 
@@ -315,14 +315,24 @@ High fever or sudden pain reduction suggests perforation. Abdominal rigidity sug
 <br>
 
 ::: callout-warning
-Diagnosis is more difficult in: - Women of childbearing age (gynecologic mimics) - Pelvic appendixes (pelvic/LLQ pain) - Third-trimester pregnancy (RUQ pain shift) - Elderly patients (atypical presentations) - Young children (inability to localize pain)
+**Diagnosis is more difficult in:**
+
+-   Women of childbearing age (gynecologic mimics)
+
+-   Pelvic appendixes (pelvic/LLQ pain)
+
+-   Third-trimester pregnancy (RUQ pain shift)
+
+-   Elderly patients (atypical presentations)
+
+-   Young children (inability to localize pain)
 :::
 
 ::: notes
 The rate of negative appendectomy has decreased significantly since the widespread adoption of CT imaging. Pregnancy represents a unique challenge, as imaging must be tailored to protect the fetus.
 :::
 
-## CT Imaging
+## CT Imaging: Normal vs. abnormal
 
 <br>
 
@@ -355,13 +365,39 @@ CT has dramatically reduced the rate of negative appendectomies and improved ide
 
 ## Scoring systems
 
+**Alvarado Score** (MANTRELS): migration, anorexia, nausea, tenderness, rebound, elevated temp, leukocytosis, shift to left
+
 <br>
 
--   **Alvarado Score** (MANTRELS): migration, anorexia, nausea, tenderness, rebound, elevated temp, leukocytosis, shift to left
+| Letter | Clinical Feature                          | Points |
+|--------|-------------------------------------------|--------|
+| M      | Migration of pain to right lower quadrant | 1      |
+| A      | Anorexia                                  | 1      |
+| N      | Nausea/vomiting                           | 1      |
+| T      | Tenderness in right lower quadrant        | 2      |
+| R      | Rebound pain                              | 1      |
+| E      | Elevated temperature (\>37.3°C)           | 1      |
+| L      | Leukocytosis (\>10,000/mm³)               | 2      |
+| S      | Shift to left (neutrophilia \>75%)        | 1      |
 
--   **AIR Score** (Appendicitis Inflammatory Response):
+## **IR Score** (Appendicitis Inflammatory Response):
 
-    -   incorporates CRP - Help stratify risk and guide imaging decisions
+<center>Total: 0–12 points</center>
+
+| Variable                                   | Criteria  | Points |
+|--------------------------------------------|-----------|--------|
+| **Vomiting**                               | Present   | 1      |
+| **Right lower quadrant pain**              | Present   | 1      |
+| **Rebound tenderness or muscular defense** | Mild      | 1      |
+|                                            | Moderate  | 2      |
+|                                            | Strong    | 3      |
+| **Temperature**                            | ≥ 38.5°C  | 1      |
+| **Leukocytosis (×10⁹/L)**                  | 10.0–14.9 | 1      |
+|                                            | ≥ 15.0    | 2      |
+| **Proportion of neutrophils (%)**          | 70–84%    | 1      |
+|                                            | ≥ 85%     | 2      |
+| **CRP (mg/L)**                             | 10–49     | 1      |
+|                                            | ≥ 50      | 2      |
 
 ::: notes
 These scoring systems are useful for triaging patients and determining who needs imaging versus direct surgical consultation. The AIR score has been validated across multiple populations.
@@ -369,12 +405,20 @@ These scoring systems are useful for triaging patients and determining who needs
 
 ## Treatment: Surgical
 
+::::: columns
+::: {.column width="50%"}
+![](images/Screenshot%202026-03-04%20183933.png)
+:::
+
+::: {.column width="50%"}
 -   **Laparoscopic appendectomy**: Standard of care
     -   Shorter hospital stay
     -   Less postoperative pain
     -   Lower wound infection rates
 -   Open appendectomy: reserved for complex cases
 -   Interval appendectomy: considered after initial conservative management of appendiceal abscess
+:::
+:::::
 
 ::: notes
 Laparoscopic approach has become the dominant surgical technique in most centers worldwide. The transition from open to laparoscopic surgery has improved patient outcomes significantly.
@@ -382,7 +426,7 @@ Laparoscopic approach has become the dominant surgical technique in most centers
 
 ## Treatment: Antibiotic-first strategy
 
-<br> <br>
+<br>
 
 ::: callout-tip
 An "antibiotic first" strategy has emerged as a safe and effective option for **uncomplicated** appendicitis
@@ -394,12 +438,12 @@ An "antibiotic first" strategy has emerged as a safe and effective option for **
 -   Patient selection is key: uncomplicated, no fecalith
 
 ::: aside
-The CODA and APPAC trials have provided strong evidence for the antibiotic-first approach. However, patient selection and shared decision-making are critical. Patients must be reliable for follow-up.
+The CODA and APPAC trials have provided strong evidence for the antibiotic-first approach. However, patient selection and shared decision-making are critical. <br> Patients must be reliable for follow-up.
 :::
 
 ## Antibiotic regimens for appendicitis
 
-<br> <br>
+<br>
 
 -   **Uncomplicated**: Piperacillin-tazobactam or ceftriaxone + metronidazole
 -   **Perforated**: IV antibiotics 3–5 days → oral step-down
@@ -407,7 +451,7 @@ The CODA and APPAC trials have provided strong evidence for the antibiotic-first
 -   Ensure anaerobic coverage (metronidazole)
 
 ::: aside
-Broad-spectrum coverage targeting both aerobic gram-negatives and anaerobes is essential given the polymicrobial nature of the infection. Some centers use oral step-down therapy as early as 48–72 hours if clinical improvement is evident.
+Broad-spectrum coverage targeting both aerobic gram-negatives and anaerobes is essential given the polymicrobial nature of the infection. <br> Some centers use oral step-down therapy as early as 48–72 hours if clinical improvement is evident.
 :::
 
 ## Appendicitis: Key takeaways
@@ -425,15 +469,15 @@ Broad-spectrum coverage targeting both aerobic gram-negatives and anaerobes is e
 The management of appendicitis is evolving rapidly. Shared decision-making between patient and clinician, incorporating patient preferences and risk tolerance, is increasingly important.
 :::
 
-# Infections of the Liver and Biliary System {background-color="#9B0014"}
+# Infections of the Liver <br> and Biliary System {background-color="#9B0014"}
 
 ## Liver abscess: Two categories
 
-<br> <br>
+<br>
 
 | Feature | Amebic | Pyogenic |
 |------------------------|------------------------|------------------------|
-| Cause | *E. histolytica* | Bacterial (polymicrobial or monomicrobial) |
+| Cause | *E. histolytica* | Bacterial <br> (polymicrobial or monomicrobial) |
 | Pathology | Hepatocyte apoptosis | Suppurative infection |
 | "Pus" appearance | Anchovy paste (nonpurulent) | Purulent |
 | Primary treatment | Medical (metronidazole) | Drainage + antibiotics |
@@ -450,7 +494,7 @@ These two types of liver abscess have fundamentally different pathophysiology, m
 -   2,983 total cases of amebiasis in 1994
 -   Annual incidence decreasing 2.4% per year
 -   Worldwide: *E. histolytica* second only to malaria as cause of death from parasitic disease
--   Male:female ratio = ranging from 5–18 : 1 in epidemiological studies
+-   Male: female ratio = ranging from 5–18 : 1 in epidemiological studies
 
 ::: aside
 The epidemiology has been greatly informed by distinguishing *E. histolytica* from *E. dispar*, which is nonpathogenic. This distinction fundamentally changed how we interpret both clinical and epidemiologic data.
@@ -462,7 +506,7 @@ The epidemiology has been greatly informed by distinguishing *E. histolytica* fr
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/Screenshot%202026-03-04%20164406.png)
+![](images/Screenshot%202026-03-04%20164406.png){width="500"}
 :::
 
 ::: {.column width="50%"}
@@ -478,7 +522,7 @@ The epidemiology has been greatly informed by distinguishing *E. histolytica* fr
 The appreciation of *E. dispar* as a distinct, nonpathogenic species was a major advance in understanding the epidemiology of amebiasis. This distinction explains why asymptomatic *Entamoeba* carriers rarely develop invasive disease.
 :::
 
-## Pyogenic Liver Abscess: Epidemiology
+## Pyogenic liver abscess: epidemiology
 
 <br>
 
@@ -492,7 +536,7 @@ The appreciation of *E. dispar* as a distinct, nonpathogenic species was a major
 The emergence of hypervirulent *K. pneumoniae* as a cause of community-acquired liver abscess has dramatically changed the epidemiology, particularly in East and Southeast Asia. This represents one of the most significant changes in infectious disease epidemiology in recent decades.
 :::
 
-## Routes of Hepatic Invasion
+## Routes of hepatic invasion
 
 <br>
 
@@ -513,11 +557,11 @@ Cholangitis has replaced appendicitis as the major identifiable cause. The high 
 
 <br>
 
--   **Diabetes mellitus**: \>3× risk
+-   Diabetes mellitus: \>3× risk
 -   Biliary disease (gallstones, obstruction)
 -   Hepatobiliary procedures
 -   Chronic granulomatous disease
--   **Hemochromatosis** (especially *Yersinia*)
+-   Hemochromatosis (especially *Yersinia*)
 -   Malignancy
 -   Cirrhosis
 -   Immunosuppression
@@ -542,19 +586,19 @@ Diabetes is particularly important as a risk factor and is strongly associated w
 :::
 
 ::: {.column width="50%"}
-![](images/Entamoeba_histolytica_life_cycle-en%20(2).svg){width="800"}
+![](images/Entamoeba_histolytica_life_cycle-en%20(2).svg){width="600"}
 :::
 :::::
 
 ::: aside
-<br> <br>
+<br> <br> <br>
 
 The Gal/GalNAc lectin is a key virulence factor that mediates adherence to colonic epithelium. The induction of apoptosis rather than necrosis produces the characteristic nonpurulent "anchovy paste" appearance that has fascinated pathologists for centuries.
 :::
 
-## Anchovy paste
+## "Anchovy paste" from liver abscess
 
-![](images/Screenshot%202026-03-04%20165702.png)
+![](images/Screenshot%202026-03-04%20165702.png){fig-align="center"}
 
 ## Virulence Factors of *E. histolytica*
 
@@ -575,8 +619,8 @@ Caspase-3-deficient mice are resistant to amebic liver abscess formation, unders
 
 <br>
 
--   **HLA-DR3**: increased susceptibility
--   **Testosterone**: risk factor (10× higher in men)
+-   HLA-DR3: increased susceptibility
+-   Testosterone: risk factor (10× higher in men)
 -   Host defense mechanisms:
     -   Complement
     -   Neutrophils
@@ -592,9 +636,9 @@ The dramatic male predominance is partly explained by the role of testosterone i
 
 <br>
 
--   Cultures positive in **80–90%** of cases
+-   Cultures positive in 80–90% of cases
 
--   **Polymicrobial** **in 20–50%** , key organisms:
+-   Polymicrobial in 20–50% , key organisms:
 
     -   *E. coli* and *K. pneumoniae* (most common gram-negatives)
 
@@ -608,7 +652,7 @@ The dramatic male predominance is partly explained by the role of testosterone i
 The source of the abscess guides the microbiology: biliary abscesses tend to be polymicrobial; cryptogenic abscesses are more often monomicrobial. This distinction has clinical implications for empiric antibiotic selection.
 :::
 
-## Epidemic *K. pneumoniae* Liver Abscess
+## Epidemic *K. pneumoniae* liver abscess
 
 <br>
 
@@ -618,9 +662,9 @@ The source of the abscess guides the microbiology: biliary abscesses tend to be 
 
 -   Monomicrobial, often in diabetics
 
--   **No biliary tract disease**
+-   No biliary tract disease
 
--   **Now accounts for 80% of cases in Asia**
+-   Now accounts for 80% of cases in Asia
 
     -   Spreading globally - Capsular serotypes K1 and K2
 :::
@@ -631,7 +675,7 @@ The source of the abscess guides the microbiology: biliary abscesses tend to be 
 :::::
 
 ::: aside
-This is a truly distinctive clinical syndrome that has emerged as a global concern. The rapid spread and high mortality in some series have prompted international surveillance efforts.
+This is a truly distinctive clinical syndrome that has emerged as a global concern. <br> The rapid spread and high mortality in some series have prompted international surveillance efforts.
 :::
 
 ## *K. pneumoniae* virulence determinants
@@ -649,7 +693,7 @@ This is a truly distinctive clinical syndrome that has emerged as a global conce
 Mutagenesis of *magA* abolishes hypermucoviscosity and increases sensitivity to phagocytosis and serum-mediated lysis. This has enabled researchers to identify the specific genetic basis of hypervirulence.
 :::
 
-## Convergent Drug-Resistant *K. pneumoniae*
+## Convergent drug-resistant *K. pneumoniae*
 
 <br>
 
@@ -664,20 +708,20 @@ Mutagenesis of *magA* abolishes hypermucoviscosity and increases sensitivity to 
 :::
 
 ::: aside
-The convergence of hypervirulence and antimicrobial resistance in *K. pneumoniae* represents one of the most concerning developments in infectious diseases. <br> The potential for a hypervirulent, multidrug-resistant *K. pneumoniae* pandemic is a significant global health threat.
+The convergence of hypervirulence and antimicrobial resistance in *K. pneumoniae* represents one of the most concerning developments in infectious diseases. <br> <br>The potential for a hypervirulent, multidrug-resistant *K. pneumoniae* pandemic is a significant global health threat.
 :::
 
-## Clinical Features: Amebic Liver Abscess
+## Clinical features: Amebic liver abscess
 
 <br>
 
--   Fever + dull, aching **RUQ pain**
+-   Fever + dull, aching RUQ pain
 
 -   Only 15–35% have GI symptoms
 
 -   Acute (\<2 weeks) in \~2/3 of cases
 
--   Can develop **months to years** after travel
+-   Can develop months to years after travel
 
 -   Risk factors: male sex, corticosteroid use
 
@@ -702,7 +746,7 @@ Epidemiologic risk factor assessment is crucial for differentiating amebic from 
 The nonspecific nature of symptoms means that a high index of suspicion is required. Before widespread imaging, liver abscess was among the most frequently identifiable causes of fever of unknown origin.
 :::
 
-## Comparing Amebic vs. Pyogenic Liver Abscess
+## Comparing amebic vs. Pyogenic liver abscess
 
 <br>
 
@@ -719,7 +763,7 @@ The nonspecific nature of symptoms means that a high index of suspicion is requi
 Note the striking gender difference—amebic liver abscess has a much stronger male predominance, likely related to testosterone and sex-based differences in immune response.
 :::
 
-## Diagnosis: Laboratory Findings
+## Diagnosis: Laboratory findings
 
 <br>
 
@@ -731,10 +775,10 @@ Note the striking gender difference—amebic liver abscess has a much stronger m
 -   Albumin and PT: usually normal
 
 ::: aside
-Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent predictors of mortality with odds ratios of 13 and 14 respectively. <br> Procalcitonin appears to be more specific than CRP.
+Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent predictors of mortality with odds ratios of 13 and 14 respectively. <br> <br>Procalcitonin appears to be more specific than CRP.
 :::
 
-## Diagnosis: Imaging
+## Diagnosis: imaging
 
 <br>
 
@@ -749,7 +793,7 @@ Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent pred
 US is the study of choice when biliary disease is suspected or in patients who cannot receive contrast. <br> CT is superior for guiding complex drainage procedures and assessing for complications.
 :::
 
-## Diagnosis: Amebic Serology
+## Diagnosis: amebic serology
 
 <br>
 
@@ -769,7 +813,7 @@ US is the study of choice when biliary disease is suspected or in patients who c
 Microscopic examination of stool for cysts is of little value because *E. histolytica* cannot be distinguished from *E. dispar* without further testing. <br> Serology is the cornerstone of diagnosis.
 :::
 
-## Emerging Diagnostics
+## Emerging diagnostics
 
 <br>
 
@@ -790,7 +834,7 @@ Microscopic examination of stool for cysts is of little value because *E. histol
 cfDNA testing represents a potentially transformative diagnostic approach. <br> One patient with a negative result had received 2 days of metronidazole prior, suggesting treatment can clear cfDNA from the bloodstream.
 :::
 
-## Treatment: Amebic liver abscess — Medical
+## Treatment: Amebic liver abscess — Medical therapy
 
 <br>
 
@@ -811,7 +855,21 @@ Decreased fever and abdominal pain are usually observed within 3–5 days of sta
 
 ## Treatment: When to drain amebic abscess
 
-<br> <br> - Uncomplicated: drainage **NOT required** - Indications for drainage: - No response to medical therapy (\>5–7 days) - Diagnostic uncertainty (rule out pyogenic) - Large lesions at risk for rupture - Left-sided abscesses (pericardial rupture risk) - Bacterial superinfection (1–5% of cases) - Percutaneous preferred over surgical drainage
+<br>
+
+-   Uncomplicated: drainage **NOT required**
+
+-   Indications for drainage: - No response to medical therapy (\>5–7 days)
+
+-   Diagnostic uncertainty (rule out pyogenic)
+
+-   Large lesions at risk for rupture:
+
+    -   Left-sided abscesses (pericardial rupture risk)
+
+    -   Bacterial superinfection (1–5% of cases)
+
+    -   Percutaneous preferred over surgical drainage
 
 ::: aside
 One RCT found a salutary effect only in patients with large abscesses (\>300 mL). <br> Routine drainage has not been shown to shorten hospital stay or improve outcomes in uncomplicated cases.
@@ -837,7 +895,7 @@ One RCT found a salutary effect only in patients with large abscesses (\>300 mL)
 Two recent meta-analyses found percutaneous drainage superior to aspiration in recurrence rates, speed of resolution, and duration of antibiotic use. The technique is now first-line at most institutions.
 :::
 
-## Treatment: Pyogenic Liver Abscess — Antibiotics
+## Treatment: Pyogenic liver abscess — Antibiotics
 
 <br>
 
@@ -850,7 +908,7 @@ Two recent meta-analyses found percutaneous drainage superior to aspiration in r
 Antibiotic choice should be guided by suspected source. Biliary source suggests gram-negatives and enterococci. Colonic/pelvic source suggests gram-negatives and anaerobes. <br> Always consider metronidazole if amebic abscess cannot be excluded
 :::
 
-## Antibiotic Duration: An Open Question
+## Antibiotic Duration: An open question
 
 <br>
 
@@ -870,7 +928,7 @@ Antibiotic choice should be guided by suspected source. Biliary source suggests 
 The Singapore RCT supporting oral ciprofloxacin for *K. pneumoniae* liver abscess may change practice patterns, particularly for K1/K2 strains. <br> Individualized approaches guided by clinical response are increasingly recommended
 :::
 
-## Aspiration vs. Catheter Drainage
+## Aspiration vs. catheter drainage
 
 <br>
 
@@ -887,11 +945,11 @@ Two recent meta-analyses (\>2,800 patients combined) found percutaneous drainage
 
 # Biliary tract infections {background-color="#9B0014"}
 
-## Biliary System Infections: Overview
+## Biliary system infections: Overview
 
 ::::: columns
 ::: {.column width="50%"}
--   Infections associated with **obstruction to bile flow**
+-   Infections associated with <br>**obstruction to bile flow**
 
 -   Gallstones: common and usually asymptomatic
 
@@ -915,11 +973,11 @@ In endemic regions, parasites such as Ascaris and Clonorchis may cause biliary d
 
 ------------------------------------------------------------------------
 
-## Cholecystitis: Key Points
+## Cholecystitis: Key points
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/cholelithiasis.png)
+![](images/Screenshot 2026-03-04 191104.png){width="800"}
 :::
 
 ::: {.column width="50%"}
@@ -934,19 +992,19 @@ In endemic regions, parasites such as Ascaris and Clonorchis may cause biliary d
 <br>
 
 ::: aside
-Acalculous cholecystitis is more common in critically ill patients and carries a higher mortality rate. Early recognition and cholecystectomy are essential
+Acalculous cholecystitis is more common in critically ill patients and carries a higher mortality rate. <br>Early recognition and cholecystectomy are essential
 :::
 
 ------------------------------------------------------------------------
 
-## Cholangitis: Key Points
+## Cholangitis: Key points
 
 ::::: columns
 ::: {.column width="50%"}
 -   Inflammation/infection of the bile ducts
 -   **Charcot triad**: fever, jaundice, RUQ pain
 -   **Reynolds pentad**: triad + hypotension + altered mental status (sepsis)
--   Life-threatening emergency requiring urgent biliary decompression
+-   Life-threatening emergency requiring urgent biliary decompression <br> not an encapsulated infection
 -   Mortality: 5–10% with treatment; up to 90% without
 :::
 
@@ -956,7 +1014,7 @@ Acalculous cholecystitis is more common in critically ill patients and carries a
 :::::
 
 ::: aside
-Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or percutaneous transhepatic drainage) is the cornerstone of management and should be performed urgently.
+Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or percutaneous transhepatic drainage) is the cornerstone of management and should be performed urgently
 :::
 
 ------------------------------------------------------------------------
@@ -991,7 +1049,11 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 
 ## Biliary Tract Infections: Mild–Moderate Severity {.smaller}
 
-**Community-acquired \| No prior biliary instrumentation \| Low resistance risk**
+-   **Community-acquired**
+
+-    **No prior biliary instrumentation**
+
+-    **Low resistance risk**
 
 | Regimen | Agents |
 |------------------------------------|------------------------------------|
@@ -1006,12 +1068,17 @@ Anaerobic coverage **not required** unless bilioenteric anastomosis or prior bil
 :::
 
 ::: aside
-Solomkin et al. *CID* 2010 (IDSA/SIS Guidelines)
 :::
 
 ## Biliary Tract Infections: Severe / Healthcare-Associated {.smaller}
 
-**Grade III cholangitis \| Prior instrumentation \| Healthcare-acquired \| High resistance risk**
+-   **Grade III cholangitis**
+
+-   **Prior instrumentation**
+
+-   **Healthcare-acquired**
+
+-   **High resistance risk**
 
 | Regimen | Agents |
 |------------------------------------|------------------------------------|
@@ -1041,7 +1108,7 @@ Solomkin et al. *CID* 2010 (IDSA/SIS Guidelines)
 | Treatment | Surgery or antibiotics | Metronidazole      | Drainage + antibiotics |
 
 ::: aside
-Each condition has distinct epidemiology, pathogenesis, and management. The key clinical skill is recognizing the distinctive features of each and applying appropriate diagnostic and therapeutic strategies.
+Each condition has distinct epidemiology, pathogenesis, and management. The key clinical skill is recognizing the distinctive features of each and applying appropriate diagnostic and therapeutic strategies
 :::
 
 ------------------------------------------------------------------------
@@ -1057,7 +1124,7 @@ Each condition has distinct epidemiology, pathogenesis, and management. The key 
 5.  **Follow up**: Imaging to confirm resolution
 
 ::: aside
-This algorithm emphasizes the importance of early imaging and microbiologic diagnosis to guide appropriate therapy. Shared decision-making with patients is important when selecting between medical and procedural management.
+This algorithm emphasizes the importance of early imaging and microbiologic diagnosis to guide appropriate therapy. Shared decision-making with patients is important when selecting between medical and procedural management
 :::
 
 ------------------------------------------------------------------------
