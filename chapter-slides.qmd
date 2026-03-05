@@ -350,14 +350,13 @@ The rate of negative appendectomy has decreased significantly since the widespre
 
 <br>
 
-::: incremental
+
 -   **CT with IV contrast**: Sensitivity and specificity both \>95%
     -   Preferred in adults
     -   Dilated appendix \>6 mm, periappendiceal fat stranding
 -   **Ultrasonography**: First-line in children and pregnant women
     -   Sensitivity 70–90%
 -   **MRI**: Alternative in pregnancy
-:::
 
 ::: notes
 CT has dramatically reduced the rate of negative appendectomies and improved identification of complicated appendicitis (perforation, abscess). Graded compression ultrasonography is highly operator-dependent.
@@ -469,7 +468,7 @@ Broad-spectrum coverage targeting both aerobic gram-negatives and anaerobes is e
 The management of appendicitis is evolving rapidly. Shared decision-making between patient and clinician, incorporating patient preferences and risk tolerance, is increasingly important.
 :::
 
-# Infections of the Liver <br> and Biliary System {background-color="#9B0014"}
+# Infections of the liver <br> and biliary system {background-color="#9B0014"}
 
 ## Liver abscess: Two categories
 
@@ -892,7 +891,7 @@ One RCT found a salutary effect only in patients with large abscesses (\>300 mL)
     -   Surgical drainage if: percutaneous fails, concurrent surgical disease, multiple/loculated abscesses
 
 ::: aside
-Two recent meta-analyses found percutaneous drainage superior to aspiration in recurrence rates, speed of resolution, and duration of antibiotic use. The technique is now first-line at most institutions.
+Two recent meta-analyses found percutaneous drainage superior to aspiration in recurrence rates, speed of resolution, and duration of antibiotic use. The technique is now first-line at most institutions[@lam2023]
 :::
 
 ## Treatment: Pyogenic liver abscess — Antibiotics
@@ -916,7 +915,7 @@ Antibiotic choice should be guided by suspected source. Biliary source suggests 
 
 -   Meta-analysis: pooled mean **32.7 days**
 
-    -   Traditional: IV 2–3 weeks → oral 4–6 weeks total
+    -   oTraditional: IV 2–3 weeks → oral 4–6 weeks total
 
     -   Some evidence for shorter courses (2–4 weeks)
 
@@ -1065,9 +1064,6 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 
 ::: callout-note
 Anaerobic coverage **not required** unless bilioenteric anastomosis or prior biliary intervention
-:::
-
-::: aside
 :::
 
 ## Biliary Tract Infections: Severe / Healthcare-Associated {.smaller}
