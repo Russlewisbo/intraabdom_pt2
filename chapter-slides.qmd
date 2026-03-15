@@ -31,7 +31,7 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 </center>
 
 |  |  |
-|------------------------------------|------------------------------------|
+|-----------------------------------|-------------------------------------|
 | ![](images/dmmunipd_logo.jpeg){width="150"} | ![](images/unipd_seal_white.svg){width="200"} |
 
 ## What is appendicitis?
@@ -105,8 +105,8 @@ Recent studies have shifted our understanding of the appendix from a useless ves
 ::::: columns
 ::: {.column width="50%"}
 -   Lifetime risk: 8.6% in men, 6.7% in women
--   \~108 cases per 100,000 person-years (US)- -0.2% of Italian population (120,000 cases per year)
--   190,000 appendectomies in the US (2018)- 36,980 in Italy (2023)
+-   0.2% of Italian population (120,000 cases per year)
+-   36,980 appendectomies per year in in Italy (2023)
 -   Historically \> 90% underwent appendectomy- 42% decrease in appendectomies since 2011
 -   Mortality \<1% (but ≥5% in elderly)
 :::
@@ -265,16 +265,22 @@ The observation that appendicitis rates increase with industrialization and the 
 These oral-type bacteria enriched in the inflamed appendix has led to the dysbiosis hypothesis—a paradigm shift in understanding appendicitis pathogenesis. The microbiome of the appendix is highly specialized and distinct from even the cecum.
 :::
 
-## Specific pathogens to know
+## Mimics of appendicitis: Mesenteric adenitis
+
+<br> <br>
+
+![](images/mesenteric.png){fig-align="center" width="800"}
+
+## Mimics of appendicitis: Specific pathogens to know
 
 <br>
 
 | Organism | Presentation |
-|------------------------------------|------------------------------------|
-| *Yersinia* spp. | Ileocecitis, mesenteric adenitis → mimics appendicitis |
+|-------------------------------|-----------------------------------------|
+| *Yersinia* spp. | Ileocecitis, mesenteric adenitis → <br> mimics appendicitis |
 | *Campylobacter* | Pseudoappendicitis with ileocecitis |
 | *Salmonella* | Pseudoappendicitis with mesenteric adenitis |
-| *E. histolytica* | True appendicitis (rare) |
+| *Entamoeba histolytica (protozoan parasite)* | True appendicitis (rare) |
 | Viruses (EBV, CMV, measles) | Mesenteric adenitis |
 
 ::: aside
@@ -302,17 +308,37 @@ Most cases of mesenteric adenitis have an unidentified infectious cause. The dis
 McBurney point is located two to three fingerbreadths above the right anterior superior iliac spine on a line drawn to the umbilicus. <br> This "classic" presentation occurs in a minority of patients.
 :::
 
+## Rovsing sign
+
+<br>
+
+![](images/Rovsing.png){fig-align="center" width="1200"}
+
+## **Psoas sign**
+
+<br>
+
+|  |  |
+|------------------------------------|------------------------------------|
+| ![](images/psoas.png){fig-align="center" width="800"} | ![](images/obturator2.png){width="800"} |
+
+## **Obturator sign**
+
+<br>
+
+![](images/obturator.png){fig-align="center" width="800"}
+
 ## Physical examination signs
 
 <br>
 
-| Sign                   | Description                     |
-|------------------------|---------------------------------|
-| **Rovsing sign**       | RLQ pain with LLQ palpation     |
-| **Psoas sign**         | Pain with active hip extension  |
-| **Obturator sign**     | Pain with internal hip rotation |
-| **Guarding**           | Involuntary muscle contraction  |
-| **Rebound tenderness** | Pain on release of pressure     |
+| Sign                                | Description                     |
+|-------------------------------------|---------------------------------|
+| **Rovsing sign**                    | RLQ pain with LLQ palpation     |
+| **Psoas sign**                      | Pain with active hip extension  |
+| **Obturator sign**                  | Pain with internal hip rotation |
+| **Guarding (tense abdominal wall)** | Involuntary muscle contraction  |
+| **Rebound tenderness**              | Pain on release of pressure     |
 
 ::: aside
 High fever or sudden pain reduction suggests perforation. Abdominal rigidity suggests diffuse peritonitis. No single finding is diagnostic, and the combination of clinical and imaging findings is essential.
@@ -358,9 +384,11 @@ The rate of negative appendectomy has decreased significantly since the widespre
 
 <br>
 
-\<\<\<\<\<\<\< HEAD
-
-======= \>\>\>\>\>\>\> ee3445f (Add Alvarado/IR score interpretation slides, fix typos, add citations, update styling) - **CT with IV contrast**: Sensitivity and specificity both \>95% - Preferred in adults - Dilated appendix \>6 mm, periappendiceal fat stranding - **Ultrasonography**: First-line in children and pregnant women - Sensitivity 70–90% - **MRI**: Alternative in pregnancy
+-   **CT with IV contrast**: Sensitivity and specificity both \>95%
+    -   Preferred in adults - Dilated appendix \>6 mm, peri-appendiceal fat stranding
+-   **Ultrasonography**: First-line in children and pregnant women
+    -   Sensitivity 70–90%
+    -   **MRI**: Alternative in pregnancy
 
 ::: notes
 CT has dramatically reduced the rate of negative appendectomies and improved identification of complicated appendicitis (perforation, abscess). Graded compression ultrasonography is highly operator-dependent.
@@ -386,11 +414,11 @@ CT has dramatically reduced the rate of negative appendectomies and improved ide
 ## **Alvarado Score** (MANTRELS): Interpretation
 
 | Score | Risk | Recommendation |
-|------------------------|------------------------|------------------------|
-| **1–4** | Low | Appendicitis unlikely; consider discharge with observation |
-| **5–6** | Equivocal/intermediate | Further workup warranted (imaging, observation, surgical consult) |
-| **7–8** | High | Likely appendicitis; surgical consultation indicated |
-| **9–10** | Very high | Appendicitis highly probable; proceed to surgery |
+|----------------|----------------|---------------------------------------|
+| **1–4** | Low | Appendicitis unlikely;  <br>consider discharge with observation |
+| **5–6** | Equivocal/intermediate | Further workup warranted <br>(imaging, observation, surgical consult) |
+| **7–8** | High | Likely appendicitis; <br> surgical consultation indicated |
+| **9–10** | Very high | Appendicitis highly probable; <br> proceed to surgery |
 
 ## **IR Score** (Appendicitis Inflammatory Response):
 
@@ -420,7 +448,7 @@ These scoring systems are useful for triaging patients and determining who needs
 ### Interpretation
 
 | Score    | Risk          | Recommendation                                      |
-|-------------------|-------------------|------------------------------------|
+|----------------|----------------|---------------------------------------|
 | **0–4**  | Low           | Appendicitis unlikely; discharge with observation   |
 | **5–8**  | Indeterminate | Imaging, active observation, or surgical consult    |
 | **9–12** | High          | Appendicitis highly probable; surgical intervention |
@@ -445,7 +473,7 @@ These scoring systems are useful for triaging patients and determining who needs
 :::
 
 ::: {.column width="50%"}
--   **Laparoscopic appendectomy**: <br>Standard of care
+-   **Laparoscopic appendectomy**: <br>standard of care
     -   Shorter hospital stay
     -   Less postoperative pain
     -   Lower wound infection rates
@@ -456,6 +484,16 @@ These scoring systems are useful for triaging patients and determining who needs
 
 ::: notes
 Laparoscopic approach has become the dominant surgical technique in most centers worldwide. The transition from open to laparoscopic surgery has improved patient outcomes significantly.
+:::
+
+## An uncomplicated surgery?
+
+<br>
+
+![](images/Rogosov.png){fig-align="center"}
+
+::: aside
+"I was a medical student in the early 60s and remember being taught what to do if we found ourselves in the Antarctic with appendicitis. We were told to sit upright with our knees pulled up to our chests. Then if the appendix did burst, in this position we had the best chance of pus draining into the bottom of the pelvis and becoming walled off in an abscess, rather than infecting the peritoneum - the membrane that covers the inside of the abdomen. Peritonitis can kill you. We weren't advised to reach for the scalpel."- Dr Duncan Gee
 :::
 
 ## Treatment: Antibiotic-first strategy
@@ -510,8 +548,8 @@ The management of appendicitis is evolving rapidly. Shared decision-making betwe
 <br>
 
 | Feature | Amebic | Pyogenic |
-|------------------------|------------------------|------------------------|
-| Cause | *E. histolytica* | Bacterial <br> (polymicrobial or monomicrobial) |
+|------------------|--------------------|---------------------------------|
+| Cause | *Entamoeba histolytica* | Bacterial <br> (polymicrobial or monomicrobial) |
 | Pathology | Hepatocyte apoptosis | Suppurative infection |
 | "Pus" appearance | Anchovy paste (nonpurulent) | Purulent |
 | Primary treatment | Medical (metronidazole) | Drainage + antibiotics |
@@ -595,7 +633,7 @@ Cholangitis has replaced appendicitis as the major identifiable cause. The high 
 -   Biliary disease (gallstones, obstruction)
 -   Hepatobiliary procedures
 -   Chronic granulomatous disease
--   Hemochromatosis (especially *Yersinia*)
+-   Hemochromatosis (especially *Yersinia*) -iron sequestration in liver
 -   Malignancy
 -   Cirrhosis
 -   Immunosuppression
@@ -676,7 +714,7 @@ The dramatic male predominance is partly explained by the role of testosterone i
 
     -   *E. coli* and *K. pneumoniae* (most common gram-negatives)
 
-    -   *Streptococcus anginosus* group (most common gram-positive) -
+    -   *Streptococcus anginosus* group (most common gram-positive)
 
     -   *Bacteroides* spp. (most common anaerobe)
 
@@ -686,7 +724,7 @@ The dramatic male predominance is partly explained by the role of testosterone i
 The source of the abscess guides the microbiology: biliary abscesses tend to be polymicrobial; cryptogenic abscesses are more often monomicrobial. This distinction has clinical implications for empiric antibiotic selection.
 :::
 
-## Epidemic *K. pneumoniae* liver abscess
+## Epidemic *Klebsiella pneumoniae* liver abscess
 
 <br>
 
@@ -767,6 +805,16 @@ The convergence of hypervirulence and antimicrobial resistance in *K. pneumoniae
 Epidemiologic risk factor assessment is crucial for differentiating amebic from pyogenic liver abscess at presentation. <br>A history of travel to an endemic area should always prompt serology testing.
 :::
 
+## Endemic areas for amebic liver abscess
+
+![](images/amebic_liver.png){fig-align="center"}
+
+::: aside
+These regions correspond to areas where **fecal-oral transmission via contaminated water and food is common**, making amebiasis endemic
+
+<br> If a patient with a liver abscess has recently been in **India, Africa, or Central/South America**, **amebic liver abscess should always be considered**
+:::
+
 ## Clinical Features: Pyogenic Liver Abscess
 
 <br>
@@ -776,13 +824,13 @@ Epidemiologic risk factor assessment is crucial for differentiating amebic from 
 -   General failure to thrive
 -   Malaise, fatigue, anorexia, weight loss
 -   Hematogenous abscesses present most acutely (3 days)
--   Pylephlebitis-related abscesses: longest duration (42 days)
+-   Pylephlebitis (portal vein) -related abscesses: longest duration (42 days)
 
 ::: aside
 The nonspecific nature of symptoms means that a high index of suspicion is required. Before widespread imaging, liver abscess was among the most frequently identifiable causes of fever of unknown origin.
 :::
 
-## Comparing amoebic vs. Pyogenic liver abscess
+## Comparing amoebic vs. pyogenic liver abscess
 
 <br>
 
@@ -808,7 +856,7 @@ Note the striking gender difference—amebic liver abscess has a much stronger m
     -   Normal value does not exclude diagnosis
 -   Transaminases: generally mildly elevated
 -   Procalcitonin: typically elevated
--   Albumin and PT: usually normal
+-   Albumin and prothrombin time: usually normal
 
 ::: aside
 Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent predictors of mortality with odds ratios of <br>13 and 14 respectively. <br> <br>Procalcitonin appears to be more specific than CRP.
@@ -819,7 +867,7 @@ Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent pred
 <br>
 
 | Modality | Sensitivity | Best For |
-|---------------------------|-------------------|---------------------------|
+|---------------------|-----------------|---------------------------------|
 | **Ultrasonography** | 70–90% | Initial assessment, <br>biliary disease |
 | **CT (contrast-enhanced)** | \~95% | Definitive diagnosis, <br>drainage guidance |
 | **MRI** | High | Distinguishing from neoplasia |
@@ -901,7 +949,7 @@ Decreased fever and abdominal pain are usually observed within 3–5 days of sta
 
 -   Large lesions at risk for rupture:
 
-    -   Left-sided abscesses (pericardial rupture risk)
+    -   Left-sided abscesses-erosion through diaphragm (pericardial rupture risk)
 
     -   Bacterial superinfection (1–5% of cases)
 
@@ -911,7 +959,7 @@ Decreased fever and abdominal pain are usually observed within 3–5 days of sta
 One RCT found a salutary effect only in patients with large abscesses (\>300 mL). <br> Routine drainage has not been shown to shorten hospital stay or improve outcomes in uncomplicated cases.
 :::
 
-## Treatment: Pyogenic Liver Abscess — Drainage
+## Treatment: Pyogenic liver abscess — Drainage
 
 <br>
 
@@ -936,7 +984,7 @@ Two recent meta-analyses found percutaneous drainage superior to aspiration in r
 <br>
 
 | Approach | Agents |
-|------------------------------------|------------------------------------|
+|-----------------------|-------------------------------------------------|
 | **Monotherapy** | Piperacillin-tazobactam OR carbapenem |
 | **Combination** | 3rd/4th-gen cephalosporin + metronidazole OR fluoroquinolone + metronidazole |
 
@@ -952,7 +1000,7 @@ Antibiotic choice should be guided by suspected source. Biliary source suggests 
 
 -   Meta-analysis: pooled mean **32.7 days**
 
-    -   oTraditional: IV 2–3 weeks → oral 4–6 weeks total
+    -   Traditional: IV 2–3 weeks → oral 4–6 weeks total
 
     -   Some evidence for shorter courses (2–4 weeks)
 
@@ -982,6 +1030,8 @@ Two recent meta-analyses (\>2,800 patients combined) found percutaneous drainage
 # Biliary tract infections {background-color="#9B0014"}
 
 ## Biliary system infections: Overview
+
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -1039,9 +1089,9 @@ Acalculous cholecystitis is more common in critically ill patients and carries a
 ::: {.column width="50%"}
 -   Inflammation/infection of the bile ducts
 -   **Charcot triad**: fever, jaundice, RUQ pain
--   **Reynolds pentad**: triad + hypotension + altered mental status (sepsis)
+-   **Reynolds pentad**: Charcot triad + hypotension + altered mental status (sepsis)
 -   Life-threatening emergency requiring urgent biliary decompression <br> not an encapsulated infection and will spill over to abdomen and bloodstream
--   Mortality: 5–10% with treatment; up to 90% without
+-   Mortality: 5–10% with treatment; up to 90% without surgical and antibiotic treatment
 :::
 
 ::: {.column width="50%"}
@@ -1092,7 +1142,7 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 -   **Low resistance risk**
 
 | Regimen | Agents |
-|------------------------------------|------------------------------------|
+|---------------------------|---------------------------------------------|
 | 3rd-gen cephalosporin | Ceftriaxone, cefotaxime |
 | 2nd-gen cephalosporin | Cefuroxime |
 | 1st-gen cephalosporin | Cefazolin *(cholecystitis only)* |
@@ -1101,11 +1151,13 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 
 <br>
 
-\<\<\<\<\<\<\< HEAD \## Biliary Tract Infections: Severe / Healthcare-Associated {.smaller} ======= ::: callout-note Anaerobic coverage **not required** unless bilioenteric anastomosis or prior biliary intervention :::
+::: callout-note 
+Anaerobic coverage **not required** unless bilioenteric anastomosis or prior biliary intervention 
+:::
 
-## Biliary tract infections: Severe / healthcare-associated
 
-> > > > > > > ee3445f (Add Alvarado/IR score interpretation slides, fix typos, add citations, update styling)
+## Biliary Tract Infections: Severe / Healthcare-Associated {.smaller} 
+
 
 -   **Grade III cholangitis**
 
@@ -1116,7 +1168,7 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 -   **High resistance risk** <br>
 
 | Regimen | Agents |
-|------------------------------------|------------------------------------|
+|-------------------------------|-----------------------------------------|
 | Carbapenem | Imipenem/cilastatin, meropenem, ertapenem |
 | β-lactam/β-lactamase inhibitor | Piperacillin/tazobactam |
 | Fluoroquinolone + anaerobic cover | Ciprofloxacin or levofloxacin + metronidazole |
@@ -1136,7 +1188,7 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 <br> <br>
 
 |           | Appendicitis           | Amebic Abscess     | Pyogenic Abscess       |
-|------------------|------------------|------------------|------------------|
+|-----------------|-------------------|-----------------|-------------------|
 | Peak age  | 15–25                  | 30–40              | 50–60                  |
 | Cause     | Obstruction/dysbiosis  | *E. histolytica*   | Biliary/polymicrobial  |
 | Diagnosis | CT                     | Serology + imaging | Culture + imaging      |
@@ -1146,33 +1198,8 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 Each condition has distinct epidemiology, pathogenesis, and management. The key clinical skill is recognizing the distinctive features of each and applying appropriate diagnostic and therapeutic strategies
 :::
 
-------------------------------------------------------------------------
+## Summary: Comparing Cbiliary tract infections 
 
-## Clinical decision algorithm: Liver abscess
-
-1.  **Suspect**: Fever + RUQ pain/tenderness + leukocytosis
-2.  **Image**: CT with contrast (or US if CT not available)
-3.  **Differentiate**: Serology, epidemiology, aspirate if needed
-4.  **Treat**:
-    -   Amebic → Metronidazole + paromomycin
-    -   Pyogenic → Drainage + empiric antibiotics
-5.  **Follow up**: Imaging to confirm resolution
-
-::: aside
-This algorithm emphasizes the importance of early imaging and microbiologic diagnosis to guide appropriate therapy. Shared decision-making with patients is important when selecting between medical and procedural management
-:::
-
-------------------------------------------------------------------------
-
-## Take-Home Messages
-
-1.  **Appendicitis**: Most common surgical emergency; antibiotic-first is valid for uncomplicated cases
-2.  **Amebic liver abscess**: Think travel/endemic exposure; treat medically with metronidazole
-3.  **Pyogenic liver abscess**: Drainage + antibiotics; think *K. pneumoniae* in diabetics
-4.  ***Klebsiella pneumoniae***: Global emergence of hypervirulent strains; convergent MDR strains are a growing threat
-5.  **Microbiome**: Paradigm shift in understanding appendicitis pathogenesis
-
-------------------------------------------------------------------------
 
 ## References
 
