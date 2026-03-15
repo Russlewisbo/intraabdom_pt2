@@ -55,55 +55,6 @@ Prof. Russell E. Lewis <br> Department of Molecular Medicine <br> University of 
 Fitz first described the natural course of acute appendicitis in 1886, coining the term and advocating early surgical intervention. This historical perspective has shaped surgical practice for over a century.
 :::
 
-## Epidemiology: By the Numbers
-
-<br> <br>
-
-::::: columns
-::: {.column width="50%"}
--   Lifetime risk: **8.6% in men**, **6.7% in women**
--   \~108 cases per 100,000 person-years (US)
--   **190,000** appendectomies in the US (2018)
--   42% decrease in appendectomies since 2011
--   Mortality \<1% (but ≥5% in elderly)
-:::
-
-::: {.column width="50%"}
-![](images/surgery.png){width="500"}
-:::
-:::::
-
-::: aside
-The decline in appendectomies reflects the growing adoption of antibiotic-first strategies for uncomplicated appendicitis. This represents a paradigm shift from the doctrine of immediate surgery.
-:::
-
-## Age and Sex Distribution
-
-<br> <br>
-
--   Peak incidence: **15–25 years**
--   Rare in infants
--   Declines after age 45 (\<25% of cases)
--   Male-to-female ratio: **1.4:1**
--   Most common surgery for individuals ≤17 years
-
-::: notes
-Appendicitis steadily increases through childhood and adolescence. Men have slightly higher rates overall. The peak in adolescence and young adulthood makes early recognition particularly important in this demographic.
-:::
-
-## Geographic Variation
-
-<br>
-
--   Lower incidence in rural, nonindustrialized areas
--   Incidence increases with industrialization
--   Similar pattern seen with diverticulitis
--   Estimated lifetime risk \<1% in rural sub-Saharan Africa
-
-::: notes
-This geographic pattern has led to significant interest in the role of dietary fiber and the gut microbiome in appendicitis pathogenesis. The industrialization correlation suggests environmental or dietary factors.
-:::
-
 ## Anatomy of the appendix
 
 ::::: columns
@@ -129,14 +80,71 @@ Atypical positions are common and can significantly alter the clinical presentat
 
 <br>
 
+::::: columns
+::: {.column width="50%"}
 -   Contributes to gut microbiome homeostasis
 -   Mucus-rich biofilm houses resident bacteria
 -   Acts as a microbial "sanctuary"
 -   Repopulates gut after diarrheal illness
 -   Sheds bacteria at 2–3 mL/day
+:::
+
+::: {.column width="50%"}
+![](images/cow.png){width="421"}
+:::
+:::::
 
 ::: aside
-Recent studies have shifted our understanding of the appendix from a useless vestige to an important component of the gut immune system. <br>This has implications for understanding appendicitis not as merely a surgical nuisance but as a significant infection with complex ecology
+Recent studies have shifted our understanding of the appendix from a useless vestige to an important component of the gut immune system. This has implications for understanding appendicitis not as merely a surgical nuisance but as a significant infection with complex ecology
+:::
+
+## Epidemiology: By the Numbers
+
+<br> <br>
+
+::::: columns
+::: {.column width="50%"}
+-   Lifetime risk: 8.6% in men, 6.7% in women
+-   \~108 cases per 100,000 person-years (US)- -0.2% of Italian population (120,000 cases per year)
+-   190,000 appendectomies in the US (2018)- 36,980 in Italy (2023)
+-   Historically \> 90% underwent appendectomy- 42% decrease in appendectomies since 2011
+-   Mortality \<1% (but ≥5% in elderly)
+:::
+
+::: {.column width="50%"}
+![](images/surgery.png){width="500"}
+:::
+:::::
+
+::: aside
+The decline in appendectomies reflects the growing adoption of antibiotic-first strategies for uncomplicated appendicitis. <br>This represents a paradigm shift from the doctrine of immediate surgery.
+:::
+
+## Age and Sex Distribution
+
+<br> <br>
+
+-   Peak incidence: **15–25 years**
+-   Rare in infants
+-   Declines after age 45 (\<25% of cases)
+-   Male-to-female ratio: **1.4:1**
+-   Most common surgery for individuals ≤17 years
+
+::: notes
+Appendicitis steadily increases through childhood and adolescence. Men have slightly higher rates overall. The peak in adolescence and young adulthood makes early recognition particularly important in this demographic.
+:::
+
+## Geographic Variation
+
+<br>
+
+-   Lower incidence in rural, non-industrialized areas
+-   Incidence of appendicitis increases with industrialization
+-   Similar pattern seen with diverticulitis
+-   Estimated lifetime risk \<1% in rural sub-Saharan Africa
+
+::: notes
+This geographic pattern has led to significant interest in the role of dietary fiber and the gut microbiome in appendicitis pathogenesis. The industrialization correlation suggests environmental or dietary factors.
 :::
 
 ## Classic pathogenesis model
@@ -350,16 +358,9 @@ The rate of negative appendectomy has decreased significantly since the widespre
 
 <br>
 
-<<<<<<< HEAD
+\<\<\<\<\<\<\< HEAD
 
-=======
->>>>>>> ee3445f (Add Alvarado/IR score interpretation slides, fix typos, add citations, update styling)
--   **CT with IV contrast**: Sensitivity and specificity both \>95%
-    -   Preferred in adults
-    -   Dilated appendix \>6 mm, periappendiceal fat stranding
--   **Ultrasonography**: First-line in children and pregnant women
-    -   Sensitivity 70–90%
--   **MRI**: Alternative in pregnancy
+======= \>\>\>\>\>\>\> ee3445f (Add Alvarado/IR score interpretation slides, fix typos, add citations, update styling) - **CT with IV contrast**: Sensitivity and specificity both \>95% - Preferred in adults - Dilated appendix \>6 mm, periappendiceal fat stranding - **Ultrasonography**: First-line in children and pregnant women - Sensitivity 70–90% - **MRI**: Alternative in pregnancy
 
 ::: notes
 CT has dramatically reduced the rate of negative appendectomies and improved identification of complicated appendicitis (perforation, abscess). Graded compression ultrasonography is highly operator-dependent.
@@ -419,7 +420,7 @@ These scoring systems are useful for triaging patients and determining who needs
 ### Interpretation
 
 | Score    | Risk          | Recommendation                                      |
-|----------------|----------------|-----------------------------------------|
+|-------------------|-------------------|------------------------------------|
 | **0–4**  | Low           | Appendicitis unlikely; discharge with observation   |
 | **5–8**  | Indeterminate | Imaging, active observation, or surgical consult    |
 | **9–12** | High          | Appendicitis highly probable; surgical intervention |
@@ -818,7 +819,7 @@ Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent pred
 <br>
 
 | Modality | Sensitivity | Best For |
-|---------------------------|------------------|---------------------------|
+|---------------------------|-------------------|---------------------------|
 | **Ultrasonography** | 70–90% | Initial assessment, <br>biliary disease |
 | **CT (contrast-enhanced)** | \~95% | Definitive diagnosis, <br>drainage guidance |
 | **MRI** | High | Distinguishing from neoplasia |
@@ -1100,13 +1101,11 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 
 <br>
 
-<<<<<<< HEAD
-## Biliary Tract Infections: Severe / Healthcare-Associated {.smaller}
-=======
-::: callout-note Anaerobic coverage **not required** unless bilioenteric anastomosis or prior biliary intervention :::
+\<\<\<\<\<\<\< HEAD \## Biliary Tract Infections: Severe / Healthcare-Associated {.smaller} ======= ::: callout-note Anaerobic coverage **not required** unless bilioenteric anastomosis or prior biliary intervention :::
 
 ## Biliary tract infections: Severe / healthcare-associated
->>>>>>> ee3445f (Add Alvarado/IR score interpretation slides, fix typos, add citations, update styling)
+
+> > > > > > > ee3445f (Add Alvarado/IR score interpretation slides, fix typos, add citations, update styling)
 
 -   **Grade III cholangitis**
 
