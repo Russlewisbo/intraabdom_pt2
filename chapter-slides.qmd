@@ -880,7 +880,7 @@ US is the study of choice when biliary disease is suspected or in patients who c
 
 ## Diagnosis CT imaging
 
-![](images/Liver abscess.png){fig-align="center"}
+![](images/Liver abscess.png){fig-align="center" width="600"}
 
 ::: aside
 Drainage of liver abscesses by percutaneous aspiration guided by computed tomography (CT).A 67-year-old man with a history of diabetes mellitus and rheumatoid arthritis and a distant history of a Billroth II gastric resection, recently diagnosed with adenocarcinoma of the stomach, presented with fever. A blood culture grew Escherichia coli. The liver was imaged by CT
