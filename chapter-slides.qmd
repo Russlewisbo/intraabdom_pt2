@@ -415,7 +415,7 @@ CT has dramatically reduced the rate of negative appendectomies and improved ide
 ## **Alvarado Score** (MANTRELS): Interpretation
 
 | Score | Risk | Recommendation |
-|-----------------|-----------------|--------------------------------------|
+|------------------|------------------|-------------------------------------|
 | **1–4** | Low | Appendicitis unlikely; <br>consider discharge with observation |
 | **5–6** | Equivocal/intermediate | Further workup warranted <br>(imaging, observation, surgical consult) |
 | **7–8** | High | Likely appendicitis; <br> surgical consultation indicated |
@@ -449,7 +449,7 @@ These scoring systems are useful for triaging patients and determining who needs
 ### Interpretation
 
 | Score    | Risk          | Recommendation                                      |
-|-----------------|-----------------|--------------------------------------|
+|------------------|------------------|-------------------------------------|
 | **0–4**  | Low           | Appendicitis unlikely; discharge with observation   |
 | **5–8**  | Indeterminate | Imaging, active observation, or surgical consult    |
 | **9–12** | High          | Appendicitis highly probable; surgical intervention |
@@ -878,6 +878,14 @@ Lab abnormalities may be prognostic: Hgb \<10 and BUN \>28 were independent pred
 US is the study of choice when biliary disease is suspected or in patients who cannot receive contrast. <br> CT is superior for guiding complex drainage procedures and assessing for complications.
 :::
 
+## Diagnosis CT imaging
+
+![](images/Liver abscess.png){fig-align="center"}
+
+::: aside
+Drainage of liver abscesses by percutaneous aspiration guided by computed tomography (CT).A 67-year-old man with a history of diabetes mellitus and rheumatoid arthritis and a distant history of a Billroth II gastric resection, recently diagnosed with adenocarcinoma of the stomach, presented with fever. A blood culture grew Escherichia coli. The liver was imaged by CT
+:::
+
 ## Diagnosis: amoebic serology
 
 <br>
@@ -987,7 +995,7 @@ Two recent meta-analyses found percutaneous drainage superior to aspiration in r
 <br>
 
 | Approach | Agents |
-|-----------------------|------------------------------------------------|
+|------------------------|------------------------------------------------|
 | **Monotherapy** | Piperacillin-tazobactam OR carbapenem |
 | **Combination** | 3rd/4th-gen cephalosporin + metronidazole OR fluoroquinolone + metronidazole |
 
@@ -1087,7 +1095,7 @@ Acalculous cholecystitis is more common in critically ill patients and carries a
 **Tokyo Guidelines 2018 — Diagnostic criteria** (2 of 3 categories required):
 
 | Category | Criteria |
-|---|---|
+|------------------------------------|------------------------------------|
 | **A. Local inflammation** | Murphy's sign; RUQ pain, tenderness, or mass |
 | **B. Systemic inflammation** | Fever; elevated CRP; elevated WBC (\>10,000/mm³) |
 | **C. Imaging** | Findings consistent with acute cholecystitis |
@@ -1097,10 +1105,10 @@ Acalculous cholecystitis is more common in critically ill patients and carries a
 **Imaging modalities**
 
 | Modality | Key findings | Sensitivity / Specificity |
-|---|---|---|
-| **Ultrasound** (first-line) | Wall thickening (\>4 mm), pericholecystic fluid, sonographic Murphy's sign | ~80% / ~80% |
-| **CT** | Wall thickening, pericholecystic stranding, distension | ~94% / ~59% |
-| **HIDA scan** | Non-visualization of gallbladder | ~97% / ~87% |
+|------------------------|------------------------|------------------------|
+| **Ultrasound** (first-line) | Wall thickening (\>4 mm), pericholecystic fluid, sonographic Murphy's sign | \~80% / \~80% |
+| **CT** | Wall thickening, pericholecystic stranding, distension | \~94% / \~59% |
+| **HIDA scan** | Non-visualization of gallbladder | \~97% / \~87% |
 
 ::: aside
 Ultrasound is the initial study of choice due to availability, low cost, and lack of radiation. HIDA scan has the highest diagnostic accuracy but is less available acutely. CT is useful when complications (perforation, emphysematous cholecystitis) are suspected.
@@ -1131,8 +1139,8 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 **Tokyo Guidelines 2018 — Diagnostic criteria**
 
 | Step | Criteria |
-|---|---|
-| **Suspected** (≥1 of A + B or C) | |
+|------------------------------------|------------------------------------|
+| **Suspected** (≥1 of A + B or C) |  |
 | **A. Systemic inflammation** | Fever/chills; WBC \<4 or \>10 ×10⁹/L; elevated CRP |
 | **B. Cholestasis** | Jaundice (bilirubin ≥2 mg/dL); elevated ALP, GGT, AST, ALT |
 | **C. Imaging** | Biliary dilatation; evidence of etiology (stricture, stone, stent) |
@@ -1143,7 +1151,7 @@ Cholangitis represents a medical emergency. <br> Biliary decompression (ERCP or 
 **Severity grading (Tokyo 2018)**
 
 | Grade | Definition |
-|---|---|
+|------------------------------------|------------------------------------|
 | **Grade I (Mild)** | Responds to initial antibiotic therapy; no organ dysfunction |
 | **Grade II (Moderate)** | Abnormal WBC, fever, age ≥75, bilirubin ≥5 mg/dL, hypoalbuminemia — biliary drainage within 24–48 h |
 | **Grade III (Severe)** | Organ dysfunction (cardiovascular, neurologic, respiratory, renal, hepatic, hematologic) — urgent drainage |
@@ -1248,7 +1256,7 @@ Each condition has distinct epidemiology, pathogenesis, and management. The key 
 <br>
 
 |   | Cholecystitis | Cholangitis |
-|-----------------|--------------------------|------------------------------|
+|------------------|-------------------------|-----------------------------|
 | **Structure** | Gallbladder | Bile ducts |
 | **Cause** | Gallstone obstruction; acalculous in critically ill | Biliary obstruction (stones, stricture, malignancy) |
 | **Clinical features** | Fever, RUQ pain, Murphy's sign | Charcot triad (fever, jaundice, RUQ pain); Reynolds pentad if septic |
